@@ -2,3 +2,5 @@
 *.in
 *.out
 *.class
+OJ.code-workspace
+template.cpp
