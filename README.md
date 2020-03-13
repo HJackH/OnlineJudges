@@ -3,21 +3,22 @@ Online judges workspace
 > For my solutions
 
 ## List
+#### Total 31 problems solved
 ```
 |---Uva
     +---V001
     |       100 - The 3n + 1 problem.cpp
-    |       108 - Maximum Sum.cpp      
-    | 
+    |       108 - Maximum Sum.cpp
+    |       
     +---V004
     |       495 - Fibonacci Freeze.java
     |       
     +---V006
     |       686 - Goldbach's Conjecture (II).cpp
-    |    
+    |       
     +---V008
-    |       821 - Page Hopping.cpp       
-    |   
+    |       821 - Page Hopping.cpp
+    |       
     +---V015
     |       1585 - Score.cpp
     |       1594 - Ducci Sequence.cpp
@@ -37,14 +38,18 @@ Online judges workspace
     |       10114 - Loansome Car Buyer.cpp
     |       10152 - ShellSort.cpp
     |       10170 - The Hotel with Infinite Rooms.cpp
-    |   
+    |       
+    +---V108
+    |       10814 - Simplifying Fractions.java
+    |       
     +---V109
     |       10929 - You can say 11.cpp
-    |    
+    |       
     +---V110
     |       11057 - Exact Sum.cpp
     |       
     +---V111
+    |       11157 - Dynamic Frog.cpp
     |       11172 - Relational Operators.cpp
     |       
     +---V113
@@ -61,9 +66,12 @@ Online judges workspace
     |       11727 - Cost Cutting.cpp
     |       11799 - Horror Dash.cpp
     |       
-    |---V120
+    +---V120
     |       12086 - Potentiometers.cpp
-    |
+    |       
+    +---V121
+    |       12124 - Assemble.cpp
+    |       
     \---V123
             12356 - Army buddies.cpp
 ```
