@@ -3,15 +3,22 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Total 31 problems solved
+#### Problem solved : `42`
 ```
-|---Uva
+\---Uva
     +---V001
     |       100 - The 3n + 1 problem.cpp
     |       108 - Maximum Sum.cpp
     |       
+    +---V002
+    |       272 - TEX Quotes.cpp
+    |       
     +---V004
+    |       490 - Rotating Sentences.cpp
     |       495 - Fibonacci Freeze.java
+    |       
+    +---V005
+    |       573 - The Snail.cpp
     |       
     +---V006
     |       686 - Goldbach's Conjecture (II).cpp
@@ -32,12 +39,22 @@ Online judges workspace
     |       10018 - Reverse and Add.cpp
     |       10035 - Primary Arithmetic.cpp
     |       10038 - Jolly Jumpers.cpp
+    |       10041 - Vito's family.cpp
     |       10055 - Hashmat the brave warrior.cpp
     |       
     +---V101
+    |       10101 - Bangla Numbers.cpp
     |       10114 - Loansome Car Buyer.cpp
     |       10152 - ShellSort.cpp
     |       10170 - The Hotel with Infinite Rooms.cpp
+    |       
+    +---V102
+    |       10222 - Decode the Mad man.cpp
+    |       10252 - Common Permutation.cpp
+    |       10268 - 498-bis.cpp
+    |       
+    +---V104
+    |       10420 - List of Conquests.cpp
     |       
     +---V108
     |       10814 - Simplifying Fractions.java
@@ -53,6 +70,7 @@ Online judges workspace
     |       11172 - Relational Operators.cpp
     |       
     +---V113
+    |       11332 - Summing Digits.cpp
     |       11340 - Newspaper.cpp
     |       11398 - The Base-1 Number System.cpp
     |       
@@ -67,6 +85,7 @@ Online judges workspace
     |       11799 - Horror Dash.cpp
     |       
     +---V120
+    |       12019 - Doom's Day Algorithm.cpp
     |       12086 - Potentiometers.cpp
     |       
     +---V121
