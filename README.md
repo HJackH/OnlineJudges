@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `42`
+#### Problem solved : `43`
 ```
 \---Uva
     +---V001
@@ -55,6 +55,9 @@ Online judges workspace
     |       
     +---V104
     |       10420 - List of Conquests.cpp
+    |       
+    +---V107
+    |       10783 - Odd Sum.cpp
     |       
     +---V108
     |       10814 - Simplifying Fractions.java
