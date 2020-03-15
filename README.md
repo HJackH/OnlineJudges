@@ -5,7 +5,7 @@ Online judges workspace
 ## List
 #### Problem solved : `44`
 ```
-\---Uva
+\---UVa
     +---V001
     |       100 - The 3n + 1 problem.cpp
     |       108 - Maximum Sum.cpp
