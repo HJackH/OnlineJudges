@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `44`
+#### Problem solved : `45`
 ```
 \---UVa
     +---V001
@@ -21,6 +21,7 @@ Online judges workspace
     |       573 - The Snail.cpp
     |       
     +---V006
+    |       673 - Parentheses Balance.cpp
     |       686 - Goldbach's Conjecture (II).cpp
     |       
     +---V008
