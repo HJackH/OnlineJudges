@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `46`
+#### Problem solved : `47`
 ```
 \---UVa
     +---V001
@@ -26,6 +26,9 @@ Online judges workspace
     |       
     +---V008
     |       821 - Page Hopping.cpp
+    |       
+    +---V013
+    |       1335 - Beijin Guards.cpp
     |       
     +---V015
     |       1585 - Score.cpp
