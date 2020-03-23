@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `49`
+#### Problem solved : `50`
 ```
 \---UVa
     +---V001
@@ -74,6 +74,7 @@ Online judges workspace
     |       
     +---V109
     |       10929 - You can say 11.cpp
+    |       10954 - Add All.cpp
     |       
     +---V110
     |       11057 - Exact Sum.cpp
