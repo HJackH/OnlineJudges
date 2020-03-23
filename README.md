@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `50`
+#### Problem solved : `51`
 ```
 \---UVa
     +---V001
@@ -74,6 +74,7 @@ Online judges workspace
     |       
     +---V109
     |       10929 - You can say 11.cpp
+    |       10935 - Throwing cards away I.cpp
     |       10954 - Add All.cpp
     |       
     +---V110
