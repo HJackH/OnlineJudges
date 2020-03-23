@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `51`
+#### Problem solved : `52`
 ```
 \---UVa
     +---V001
@@ -104,6 +104,7 @@ Online judges workspace
     |       12086 - Potentiometers.cpp
     |       
     +---V121
+    |       12100 - Printer Queue.cpp
     |       12124 - Assemble.cpp
     |       
     \---V123
