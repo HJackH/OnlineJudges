@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `54`
+#### Problem solved : `55`
 ```
 \---UVa
     +---V001
@@ -83,6 +83,9 @@ Online judges workspace
     +---V111
     |       11157 - Dynamic Frog.cpp
     |       11172 - Relational Operators.cpp
+    |       
+    +---V112
+    |       11264 - Coin Collector.cpp
     |       
     +---V113
     |       11332 - Summing Digits.cpp
