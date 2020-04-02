@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `55`
+#### Problem solved : `56`
 ```
 \---UVa
     +---V001
@@ -24,6 +24,9 @@ Online judges workspace
     +---V006
     |       673 - Parentheses Balance.cpp
     |       686 - Goldbach's Conjecture (II).cpp
+    |       
+    +---V007
+    |       714 - Copying Books.cpp
     |       
     +---V008
     |       821 - Page Hopping.cpp
