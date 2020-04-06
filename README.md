@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `57`
+#### Problem solved : `58`
 ```
 \---UVa
     +---V001
@@ -77,6 +77,7 @@ Online judges workspace
     +---V108
     |       10812 - Beat the Spread!.cpp
     |       10814 - Simplifying Fractions.java
+    |       10815 - Andy's First Dictionary.cpp
     |       
     +---V109
     |       10929 - You can say 11.cpp
