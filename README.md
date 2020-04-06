@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `59`
+#### Problem solved : `60`
 ```
 \---UVa
     +---V001
@@ -64,6 +64,7 @@ Online judges workspace
     |       
     +---V102
     |       10222 - Decode the Mad man.cpp
+    |       10226 - Hardwood Species.cpp
     |       10252 - Common Permutation.cpp
     |       10268 - 498-bis.cpp
     |       
