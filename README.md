@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `58`
+#### Problem solved : `59`
 ```
 \---UVa
     +---V001
@@ -93,6 +93,7 @@ Online judges workspace
     |       
     +---V112
     |       11264 - Coin Collector.cpp
+    |       11286 - Conformity.cpp
     |       
     +---V113
     |       11332 - Summing Digits.cpp
