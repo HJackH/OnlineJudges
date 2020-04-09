@@ -32,7 +32,6 @@ double closest(int l, int r) {
     int mid = l + (r - l) / 2;
     double d = min(closest(l, mid), closest(mid + 1, r)), ansd = d;
     double midX = (points[mid + 1].x + points[mid].x) / 2;
-    double midY = (points[mid + 1].y + points[mid].y) / 2;
     for (int i = mid; i >= l; i--) {
         if (points[i].x - midX + d < EPS) {
             break;
@@ -55,10 +54,10 @@ int main() {
         sort(points, points + n);
 
         double ans = closest(0, n - 1);
-        if (ans - 10000.0 < EPS) {
-            printf("%.4lf\n", ans);
+        if (fabs(ans - 10000.0) < EPS || ans > 10000.0) {
+            printf("INFINITY\n"); 
         } else {
-            printf("INFINITY\n");
+            printf("%.4lf\n", ans);
         }
     }
 }
