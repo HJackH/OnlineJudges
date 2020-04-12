@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `64`
+#### Problem solved : `65`
 ```
 \---UVa
     +---V001
@@ -80,6 +80,9 @@ Online judges workspace
     |       10420 - List of Conquests.cpp
     |       10474 - Where is the Marble.cpp
     |       
+    +---V106
+    |       10685 - Nature.cpp
+    |       
     +---V107
     |       10783 - Odd Sum.cpp
     |       
@@ -133,3 +136,4 @@ Online judges workspace
     |       
     \---V123
             12356 - Army buddies.cpp
+```
