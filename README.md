@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `65`
+#### Problem solved : `66`
 ```
 \---UVa
     +---V001
@@ -31,6 +31,7 @@ Online judges workspace
     |       
     +---V007
     |       714 - Copying Books.cpp
+    |       793 - Network Connections.cpp
     |       
     +---V008
     |       821 - Page Hopping.cpp
