@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `68`
+#### Problem solved : `69`
 ```
 \---UVa
     +---V001
@@ -32,6 +32,7 @@ Online judges workspace
     |       
     +---V007
     |       714 - Copying Books.cpp
+    |       750 - 8 Queens Chess Problem.cpp
     |       793 - Network Connections.cpp
     |       
     +---V008
