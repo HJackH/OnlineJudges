@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `69`
+#### Problem solved : `70`
 ```
 \---UVa
     +---V001
@@ -13,6 +13,7 @@ Online judges workspace
     |       
     +---V002
     |       272 - TEX Quotes.cpp
+    |       280 - Vertex.cpp
     |       
     +---V003
     |       311 - Packets.cpp
