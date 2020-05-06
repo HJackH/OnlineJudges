@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `70`
+#### Problem solved : `71`
 ```
 \---UVa
     +---V001
@@ -41,6 +41,9 @@ Online judges workspace
     |       
     +---V011
     |       1193 - Radar Installation.cpp
+    |       
+    +---V012
+    |       1203 - Argus.cpp
     |       
     +---V013
     |       1335 - Beijin Guards.cpp
