@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `73`
+#### Problem solved : `74`
 ```
 \---UVa
     +---V001
@@ -26,6 +26,7 @@ Online judges workspace
     |       
     +---V005
     |       514 - Rails.cpp
+    |       532 - Dungeon Master.cpp
     |       572 - Oil Deposits.cpp
     |       573 - The Snail.cpp
     |       
