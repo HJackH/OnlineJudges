@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `77`
+#### Problem solved : `78`
 ```
 \---UVa
     +---V001
@@ -76,6 +76,7 @@ Online judges workspace
     |       10114 - Loansome Car Buyer.cpp
     |       10125 - Sumsets.cpp
     |       10152 - ShellSort.cpp
+    |       10167 - Birthday Cake.cpp
     |       10170 - The Hotel with Infinite Rooms.cpp
     |       
     +---V102
