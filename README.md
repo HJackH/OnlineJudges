@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `76`
+#### Problem solved : `77`
 ```
 \---UVa
     +---V001
@@ -69,6 +69,7 @@ Online judges workspace
     |       10038 - Jolly Jumpers.cpp
     |       10041 - Vito's family.cpp
     |       10055 - Hashmat the brave warrior.cpp
+    |       10098 - Generating Fast.cpp
     |       
     +---V101
     |       10101 - Bangla Numbers.cpp
