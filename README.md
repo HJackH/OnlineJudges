@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `83`
+#### Problem solved : `84`
 ```
 \---UVa
     +---V001
@@ -140,6 +140,7 @@ Online judges workspace
     |       
     +---V117
     |       11727 - Cost Cutting.cpp
+    |       11730 - Number Transformation.cpp
     |       11799 - Horror Dash.cpp
     |       
     +---V119
