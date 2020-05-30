@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `87`
+#### Problem solved : `88`
 ```
 \---UVa
     +---V001
@@ -101,6 +101,7 @@ Online judges workspace
     |       
     +---V107
     |       10714 - Ants.cpp
+    |       10718 - Bit Mask.cpp
     |       10783 - Odd Sum.cpp
     |       
     +---V108
