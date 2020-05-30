@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `86`
+#### Problem solved : `87`
 ```
 \---UVa
     +---V001
@@ -50,6 +50,7 @@ Online judges workspace
     |       1203 - Argus.cpp
     |       
     +---V013
+    |       1316 - Supermarket.cpp
     |       1335 - Beijin Guards.cpp
     |       
     +---V014
