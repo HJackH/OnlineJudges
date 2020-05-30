@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `89`
+#### Problem solved : `90`
 ```
 \---UVa
     +---V001
@@ -101,6 +101,7 @@ Online judges workspace
     |       10685 - Nature.cpp
     |       
     +---V107
+    |       10700 - Camel trading.cpp
     |       10714 - Ants.cpp
     |       10718 - Bit Mask.cpp
     |       10783 - Odd Sum.cpp
