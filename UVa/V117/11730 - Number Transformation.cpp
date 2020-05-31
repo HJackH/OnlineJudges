@@ -48,7 +48,7 @@ int bfs() {
     vector<bool> vis(MAXN + 5, false);
     queue<Node> q;
     q.push((Node) {S, 0});
-    vis[S] == true;
+    vis[S] = true;
     while (!q.empty()) {
         auto now = q.front();
         q.pop();
