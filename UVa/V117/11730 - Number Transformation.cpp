@@ -8,54 +8,51 @@ struct Node{
     int depth;
 };
 
-vector<int> prime;
-set<int> Se[MAXN + 5];
-int S, T, kase = 0;
+int S, T, kase = 0, vis[MAXN + 5];
+vector<int> primes, factors[MAXN + 5];
 
 void run_prime() {
     vector<bool> notPrime(MAXN + 5, false);
     for (int i = 2; i <= MAXN; i++) {
         if (!notPrime[i]) {
-            prime.push_back(i);
+            primes.push_back(i);
         }
-        for (int j : prime) {
-            if (i * j > MAXN) {
-                break;
-            }
-            notPrime[i * j] = true;
-            if (i % j == 0) {
+        for (int j = 0; j < primes.size() && i * primes[j] <= MAXN; j++) {
+            notPrime[i * primes[j]] = true;
+            if (i % primes[j] == 0) {
                 break;
             }
         }
     }
 }
 
-void factor() {
+void run_factor() {
     for (int i = 4; i <= MAXN; i++) {
-        int tmp = i, fac = 0;
-        while (tmp > 1 && prime[fac] < i) {
-            if (tmp % prime[fac] == 0) {
-                Se[i].insert(prime[fac]);
-                tmp /= prime[fac];
+        int tmp = i, pnow = 0;
+        while (tmp > 1 && primes[pnow] < i) {
+            if (tmp % primes[pnow] == 0) {
+                tmp /= primes[pnow];
+                if (factors[i].empty() || primes[pnow] != factors[i].back())
+                    factors[i].push_back(primes[pnow]);
             } else {
-                fac++;
+                pnow++;
             }
         }
     }
 }
 
 int bfs() {
-    vector<bool> vis(MAXN + 5, false);
+    memset(vis, 0, sizeof(vis));
     queue<Node> q;
     q.push((Node) {S, 0});
     vis[S] = true;
     while (!q.empty()) {
-        auto now = q.front();
+        Node now = q.front();
         q.pop();
         if (now.at == T) {
             return now.depth;
         }
-        for (auto fac : Se[now.at]) {
+        for (int fac : factors[now.at]) {
             if (now.at + fac > T) {
                 break;
             }
@@ -70,7 +67,7 @@ int bfs() {
 
 int main() {
     run_prime();
-    factor();
+    run_factor();
     while (cin >> S >> T && (S || T)) {
         cout << "Case " << ++kase << ": " << bfs() << '\n';
     }
