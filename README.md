@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `92`
+#### Problem solved : `93`
 ```
 \---UVa
     +---V001
@@ -145,6 +145,9 @@ Online judges workspace
     |       11549 - Calculator Conundrum.cpp
     |       11559 - Event Planning.cpp
     |       11572 - Unique Snowflakes.cpp
+    |       
+    +---V116
+    |       11624 - Fire!.cpp
     |       
     +---V117
     |       11727 - Cost Cutting.cpp
