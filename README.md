@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `95`
+#### Problem solved : `96`
 ```
 \---UVa
     +---V001
@@ -125,6 +125,7 @@ Online judges workspace
     |       11129 - An antiarithmetic permutation.cpp
     |       11157 - Dynamic Frog.cpp
     |       11172 - Relational Operators.cpp
+    |       11192 - Group Reverse.cpp
     |       
     +---V112
     |       11264 - Coin Collector.cpp
