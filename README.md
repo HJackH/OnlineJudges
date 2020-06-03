@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `93`
+#### Problem solved : `94`
 ```
 \---UVa
     +---V001
@@ -166,6 +166,9 @@ Online judges workspace
     |       12100 - Printer Queue.cpp
     |       12124 - Assemble.cpp
     |       
-    \---V123
-            12356 - Army buddies.cpp
+    +---V123
+    |       12356 - Army buddies.cpp
+    |       
+    \---V126
+            12694 - Meeting Room Arrangement.cpp
 ```
