@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `94`
+#### Problem solved : `95`
 ```
 \---UVa
     +---V001
@@ -133,6 +133,7 @@ Online judges workspace
     +---V113
     |       11332 - Summing Digits.cpp
     |       11340 - Newspaper.cpp
+    |       11344 - The Huge One.java
     |       11367 - Full Tank.cpp
     |       11398 - The Base-1 Number System.cpp
     |       
