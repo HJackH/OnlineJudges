@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `98`
+#### Problem solved : `99`
 ```
 \---UVa
     +---V001
@@ -70,6 +70,7 @@ Online judges workspace
     |       10035 - Primary Arithmetic.cpp
     |       10038 - Jolly Jumpers.cpp
     |       10041 - Vito's family.cpp
+    |       10048 - Audiophobia.cpp
     |       10055 - Hashmat the brave warrior.cpp
     |       10066 - The Twin Towers.cpp
     |       10071 - Back to High School Physics.cpp
