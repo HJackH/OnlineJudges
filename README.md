@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `109`
+#### Problem solved : `110`
 ```
 \---UVa
     +---V001
@@ -175,6 +175,7 @@ Online judges workspace
     |       
     +---V119
     |       11995 - I Can Guess the Data Structure!.cpp
+    |       11997 - K Smallest Sums.cpp
     |       
     +---V120
     |       12019 - Doom's Day Algorithm.cpp
