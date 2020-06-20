@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `110`
+#### Problem solved : `111`
 ```
 \---UVa
     +---V001
@@ -131,6 +131,7 @@ Online judges workspace
     |       10929 - You can say 11.cpp
     |       10935 - Throwing cards away I.cpp
     |       10954 - Add All.cpp
+    |       10982 - Troublemakers.cpp
     |       
     +---V110
     |       11057 - Exact Sum.cpp
