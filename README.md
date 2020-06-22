@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `112`
+#### Problem solved : `113`
 ```
 \---UVa
     +---V001
@@ -174,6 +174,9 @@ Online judges workspace
     |       11727 - Cost Cutting.cpp
     |       11730 - Number Transformation.cpp
     |       11799 - Horror Dash.cpp
+    |       
+    +---V118
+    |       11865 - Stream My Contest.cpp
     |       
     +---V119
     |       11995 - I Can Guess the Data Structure!.cpp
