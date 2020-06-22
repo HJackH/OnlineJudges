@@ -4,8 +4,6 @@ using namespace std;
 const int MAXN = 1e4 + 5;
 const int INF = 1e9;
 
-int n, m, budget;
-
 struct Edge {
     int from;
     int to;
@@ -13,6 +11,7 @@ struct Edge {
     int cost;
 };
 
+int n, m, budget;
 int in[MAXN], pre[MAXN], id[MAXN], vis[MAXN]; 
 Edge edges[MAXN], tedges[MAXN];
 
