@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `114`
+#### Problem solved : `115`
 ```
 \---UVa
     +---V001
@@ -153,6 +153,7 @@ Online judges workspace
     |       11340 - Newspaper.cpp
     |       11344 - The Huge One.java
     |       11367 - Full Tank.cpp
+    |       11383 - Golden Tiger Claw.cpp
     |       11398 - The Base-1 Number System.cpp
     |       
     +---V114
