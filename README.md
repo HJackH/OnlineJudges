@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `116`
+#### Problem solved : `117`
 ```
 \---UVa
     +---V001
@@ -57,6 +57,7 @@ Online judges workspace
     +---V013
     |       1316 - Supermarket.cpp
     |       1335 - Beijin Guards.cpp
+    |       1395 - Slim Span.cpp
     |       
     +---V014
     |       1421 - Archery.cpp
