@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `117`
+#### Problem solved : `118`
 ```
 \---UVa
     +---V001
@@ -179,6 +179,7 @@ Online judges workspace
     |       11799 - Horror Dash.cpp
     |       
     +---V118
+    |       11831 - Sticker Collector Robots.cpp
     |       11865 - Stream My Contest.cpp
     |       
     +---V119
