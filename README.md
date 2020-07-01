@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `122`
+#### Problem solved : `123`
 ```
 \---UVa
     +---V001
@@ -117,6 +117,7 @@ Online judges workspace
     |       10583 - Ubiquitous Religions.cpp
     |       
     +---V106
+    |       10608 - Friends.cpp
     |       10685 - Nature.cpp
     |       
     +---V107
