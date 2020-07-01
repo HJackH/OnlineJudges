@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `123`
+#### Problem solved : `124`
 ```
 \---UVa
     +---V001
@@ -107,6 +107,7 @@ Online judges workspace
     |       10305 - Ordering Tasks.cpp
     |       10327 - Flip Sort.cpp
     |       10391 - Compound Words.cpp
+    |       10394 - Twin Primes.cpp
     |       
     +---V104
     |       10420 - List of Conquests.cpp
