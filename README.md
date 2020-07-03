@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `127`
+#### Problem solved : `128`
 ```
 \---UVa
     +---V001
@@ -138,6 +138,7 @@ Online judges workspace
     |       10815 - Andy's First Dictionary.cpp
     |       
     +---V109
+    |       10924 - Prime Words.cpp
     |       10929 - You can say 11.cpp
     |       10935 - Throwing cards away I.cpp
     |       10954 - Add All.cpp
