@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `129`
+#### Problem solved : `130`
 ```
 \---UVa
     +---V001
@@ -47,6 +47,9 @@ Online judges workspace
     |       
     +---V008
     |       821 - Page Hopping.cpp
+    |       
+    +---V009
+    |       929 - Number Maze.cpp
     |       
     +---V010
     |       1073 - Glenbow Museum.cpp
