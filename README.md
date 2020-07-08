@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `130`
+#### Problem solved : `131`
 ```
 \---UVa
     +---V001
@@ -125,6 +125,7 @@ Online judges workspace
     |       
     +---V106
     |       10608 - Friends.cpp
+    |       10684 - The jackpot.cpp
     |       10685 - Nature.cpp
     |       
     +---V107
