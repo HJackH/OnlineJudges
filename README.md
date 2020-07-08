@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `134`
+#### Problem solved : `135`
 ```
 \---UVa
     +---V001
@@ -19,6 +19,7 @@ Online judges workspace
     |       311 - Packets.cpp
     |       353 - Pesky Palindromes.cpp
     |       357 - Let Me Count The Ways.cpp
+    |       374 - Big Mod.cpp
     |       
     +---V004
     |       429 - Word Transformation.cpp
