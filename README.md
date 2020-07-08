@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `135`
+#### Problem solved : `136`
 ```
 \---UVa
     +---V001
@@ -220,6 +220,7 @@ Online judges workspace
     |       12356 - Army buddies.cpp
     |       
     +---V124
+    |       12406 - Help Dexter.cpp
     |       12468 - Zapping.cpp
     |       
     \---V126
