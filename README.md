@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `132`
+#### Problem solved : `133`
 ```
 \---UVa
     +---V001
@@ -33,6 +33,7 @@ Online judges workspace
     |       568 - Just the Facts.cpp
     |       572 - Oil Deposits.cpp
     |       573 - The Snail.cpp
+    |       583 - Prime Factors.cpp
     |       
     +---V006
     |       673 - Parentheses Balance.cpp
