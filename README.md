@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `133`
+#### Problem solved : `134`
 ```
 \---UVa
     +---V001
@@ -48,6 +48,7 @@ Online judges workspace
     |       
     +---V008
     |       821 - Page Hopping.cpp
+    |       884 - Factorial Factors.cpp
     |       
     +---V009
     |       929 - Number Maze.cpp
