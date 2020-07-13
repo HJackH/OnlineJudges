@@ -3,13 +3,14 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `142`
+#### Problem solved : `143`
 ```
 \---UVa
     +---V001
     |       100 - The 3n + 1 problem.cpp
     |       108 - Maximum Sum.cpp
     |       113 - Power of Cryptography.cpp
+    |       136 - Ugly Numbers.cpp
     |       146 - ID Codes.cpp
     |       
     +---V002
