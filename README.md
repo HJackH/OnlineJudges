@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `136`
+#### Problem solved : `137`
 ```
 \---UVa
     +---V001
@@ -37,6 +37,7 @@ Online judges workspace
     |       583 - Prime Factors.cpp
     |       
     +---V006
+    |       612 - DNA Sorting.cpp
     |       673 - Parentheses Balance.cpp
     |       686 - Goldbach's Conjecture (II).cpp
     |       
