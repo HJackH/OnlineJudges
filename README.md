@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `144`
+#### Problem solved : `145`
 ```
 \---UVa
     +---V001
@@ -30,6 +30,7 @@ Online judges workspace
     |       441 - Lotto.cpp
     |       488 - Triangle Wave.cpp
     |       490 - Rotating Sentences.cpp
+    |       494 - Kindergarten Counting Game.cpp
     |       495 - Fibonacci Freeze.java
     |       
     +---V005
