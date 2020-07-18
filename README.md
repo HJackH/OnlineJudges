@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `149`
+#### Problem solved : `150`
 ```
 \---UVa
     +---V001
@@ -12,6 +12,7 @@ Online judges workspace
     |       113 - Power of Cryptography.cpp
     |       136 - Ugly Numbers.cpp
     |       146 - ID Codes.cpp
+    |       167 - The Sultan's Successors.cpp
     |       
     +---V002
     |       272 - TEX Quotes.cpp
