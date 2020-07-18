@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `151`
+#### Problem solved : `152`
 ```
 \---UVa
     +---V001
@@ -122,6 +122,7 @@ Online judges workspace
     |       10268 - 498-bis.cpp
     |       
     +---V103
+    |       10300 - Ecological Premium.cpp
     |       10305 - Ordering Tasks.cpp
     |       10327 - Flip Sort.cpp
     |       10391 - Compound Words.cpp
