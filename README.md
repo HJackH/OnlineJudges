@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `155`
+#### Problem solved : `156`
 ```
 \---UVa
     +---V001
@@ -100,6 +100,7 @@ Online judges workspace
     |       10041 - Vito's family.cpp
     |       10048 - Audiophobia.cpp
     |       10055 - Hashmat the brave warrior.cpp
+    |       10062 - Tell me the frequencies!.cpp
     |       10066 - The Twin Towers.cpp
     |       10071 - Back to High School Physics.cpp
     |       10098 - Generating Fast.cpp
