@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `154`
+#### Problem solved : `155`
 ```
 \---UVa
     +---V001
@@ -60,6 +60,7 @@ Online judges workspace
     |       884 - Factorial Factors.cpp
     |       
     +---V009
+    |       924 - Spreading the News.cpp
     |       929 - Number Maze.cpp
     |       
     +---V010
