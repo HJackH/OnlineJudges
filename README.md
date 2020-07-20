@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `158`
+#### Problem solved : `159`
 ```
 \---UVa
     +---V001
@@ -169,6 +169,7 @@ Online judges workspace
     |       
     +---V110
     |       11057 - Exact Sum.cpp
+    |       11059 - Maximum Product.cpp
     |       11094 - Continents.cpp
     |       
     +---V111
