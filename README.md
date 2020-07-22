@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `164`
+#### Problem solved : `165`
 ```
 \---UVa
     +---V001
@@ -116,6 +116,7 @@ Online judges workspace
     |       10152 - ShellSort.cpp
     |       10167 - Birthday Cake.cpp
     |       10170 - The Hotel with Infinite Rooms.cpp
+    |       10189 - Minesweeper.cpp
     |       
     +---V102
     |       10222 - Decode the Mad man.cpp
