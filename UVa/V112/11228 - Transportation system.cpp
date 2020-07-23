@@ -59,7 +59,7 @@ void kruskal() {
     int cnt = 0;
     for (auto e : edges) {
         if (uni(e.from, e.to)) {
-            if (e.cost < r) {
+            if (e.cost <= r) {
                 road += e.cost;
             } else {
                 rail += e.cost;
