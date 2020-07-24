@@ -72,13 +72,7 @@ int main() {
         int num;
         for (int i = 1; i <= n; i++) {
             cin >> num;
-            if (num > 0) {
-                update(i, 1);
-            } else if (num < 0) {
-                update(i, -1);
-            } else {
-                update(i, 0);
-            }
+            update(i, num);
         }
 
         char mode;
