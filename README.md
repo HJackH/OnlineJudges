@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `168`
+#### Problem solved : `169`
 ```
 \---UVa
     +---V001
@@ -77,6 +77,7 @@ Online judges workspace
     |       
     +---V013
     |       1316 - Supermarket.cpp
+    |       1330 - City Game.cpp
     |       1335 - Beijin Guards.cpp
     |       1395 - Slim Span.cpp
     |       
@@ -124,7 +125,7 @@ Online judges workspace
     |       10226 - Hardwood Species.cpp
     |       10236 - The Fibonacci Primes.cpp
     |       10245 - The Closest Pair Problem.cpp
-    |       10252 - Common Permutation.cpp
+    |       10252 - Common Permutation.cppa
     |       10268 - 498-bis.cpp
     |       
     +---V103
