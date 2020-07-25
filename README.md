@@ -125,7 +125,7 @@ Online judges workspace
     |       10226 - Hardwood Species.cpp
     |       10236 - The Fibonacci Primes.cpp
     |       10245 - The Closest Pair Problem.cpp
-    |       10252 - Common Permutation.cppa
+    |       10252 - Common Permutation.cpp
     |       10268 - 498-bis.cpp
     |       
     +---V103
