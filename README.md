@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `169`
+#### Problem solved : `170`
 ```
 \---UVa
     +---V001
@@ -47,6 +47,7 @@ Online judges workspace
     +---V006
     |       612 - DNA Sorting.cpp
     |       673 - Parentheses Balance.cpp
+    |       679 - Dropping Balls.cpp
     |       686 - Goldbach's Conjecture (II).cpp
     |       
     +---V007
