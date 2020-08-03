@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `176`
+#### Problem solved : `177`
 ```
 \-- UVa
     +-- V001
@@ -87,6 +87,7 @@ Online judges workspace
     |   +-- 10000 - Longest Paths.cpp
     |   +-- 10008 - What's Cryptanalysis.cpp
     |   +-- 10018 - Reverse and Add.cpp
+    |   +-- 10034 - Freckles.cpp
     |   +-- 10035 - Primary Arithmetic.cpp
     |   +-- 10038 - Jolly Jumpers.cpp
     |   +-- 10041 - Vito's family.cpp
