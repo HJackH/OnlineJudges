@@ -1,6 +1,8 @@
-*.exe
-*.in
-*.out
-*.class
+*
+!/**/
+!*.cpp
+!*.java
+!*.py
+
 /tool
 /.vscode
