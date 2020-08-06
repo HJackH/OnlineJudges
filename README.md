@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `181`
+#### Problem solved : `182`
 ```
 +-- HDU
 |   +-- V30-39XX
@@ -51,6 +51,7 @@ Online judges workspace
     |   \-- 583 - Prime Factors.cpp
     +-- V006
     |   +-- 612 - DNA Sorting.cpp
+    |   +-- 657 - The die is cast.cpp
     |   +-- 673 - Parentheses Balance.cpp
     |   +-- 679 - Dropping Balls.cpp
     |   \-- 686 - Goldbach's Conjecture (II).cpp
