@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `185`
+#### Problem solved : `186`
 ```
 +-- HDU
 |   +-- V30-39XX
@@ -16,7 +16,8 @@ Online judges workspace
 |   +-- V14-23XX
 |   |   \-- 2309 - BST.cpp
 |   +-- V24-33XX
-|   |   \-- 3321 - Apple Tree.cpp
+|   |   +-- 3321 - Apple Tree.cpp
+|   |   \-- 3367 - Expressions.cpp
 |   \-- V27-36XX
 |       \-- 3687 - Labeling Balls.cpp
 \-- UVa
