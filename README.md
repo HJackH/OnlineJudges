@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `192`
+#### Problem solved : `193`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -61,7 +61,8 @@ Online judges workspace
     |   +-- 568 - Just the Facts.cpp
     |   +-- 572 - Oil Deposits.cpp
     |   +-- 573 - The Snail.cpp
-    |   \-- 583 - Prime Factors.cpp
+    |   +-- 583 - Prime Factors.cpp
+    |   \-- 591 - Box of Bricks.cpp
     +-- V006
     |   +-- 612 - DNA Sorting.cpp
     |   +-- 657 - The die is cast.cpp
