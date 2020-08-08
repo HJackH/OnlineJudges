@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `197`
+#### Problem solved : `198`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -49,6 +49,7 @@ Online judges workspace
     |   +-- 439 - Knight Moves.cpp
     |   +-- 441 - Lotto.cpp
     |   +-- 458 - The Decoder.cpp
+    |   +-- 484 - The Department of Redundancy Department.cpp
     |   +-- 488 - Triangle Wave.cpp
     |   +-- 490 - Rotating Sentences.cpp
     |   +-- 494 - Kindergarten Counting Game.cpp
