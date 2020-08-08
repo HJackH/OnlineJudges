@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `194`
+#### Problem solved : `195`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -144,6 +144,7 @@ Online judges workspace
     |   +-- 10300 - Ecological Premium.cpp
     |   +-- 10305 - Ordering Tasks.cpp
     |   +-- 10327 - Flip Sort.cpp
+    |   +-- 10369 - Arctic Network.cpp
     |   +-- 10391 - Compound Words.cpp
     |   \-- 10394 - Twin Primes.cpp
     +-- V104
