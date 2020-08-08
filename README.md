@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `195`
+#### Problem solved : `196`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -58,6 +58,7 @@ Online judges workspace
     |   +-- 532 - Dungeon Master.cpp
     |   +-- 539 - The Settlers of Catan.cpp
     |   +-- 558 - Wormholes.cpp
+    |   +-- 562 - Dividing coins.cpp
     |   +-- 568 - Just the Facts.cpp
     |   +-- 572 - Oil Deposits.cpp
     |   +-- 573 - The Snail.cpp
