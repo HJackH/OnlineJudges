@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `189`
+#### Problem solved : `190`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -118,6 +118,7 @@ Online judges workspace
     |   +-- 10062 - Tell me the frequencies!.cpp
     |   +-- 10066 - The Twin Towers.cpp
     |   +-- 10071 - Back to High School Physics.cpp
+    |   +-- 10082 - WERTYU.cpp
     |   \-- 10098 - Generating Fast.cpp
     +-- V101
     |   +-- 10101 - Bangla Numbers.cpp
