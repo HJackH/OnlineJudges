@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `199`
+#### Problem solved : `200`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -34,6 +34,7 @@ Online judges workspace
     |   +-- 113 - Power of Cryptography.cpp
     |   +-- 136 - Ugly Numbers.cpp
     |   +-- 146 - ID Codes.cpp
+    |   +-- 147 - Dollars.cpp
     |   \-- 167 - The Sultan's Successors.cpp
     +-- V002
     |   +-- 263 - Number Chains.cpp
