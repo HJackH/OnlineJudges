@@ -3,11 +3,13 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `205`
+#### Problem solved : `206`
 ```
 +-- CF
-|   \-- V05
-|       \-- 567B - Berland National Library.cpp
+|   +-- V05
+|   |   \-- 567B - Berland National Library.cpp
+|   \-- V13
+|       \-- 1374C - Move Brackets.cpp
 +-- HDU
 |   +-- V27-36XX
 |   |   \-- 3613 - Best Reward.cpp
