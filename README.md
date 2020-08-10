@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `203`
+#### Problem solved : `204`
 ```
 +-- Codeforces
 |   \-- V05
@@ -168,7 +168,8 @@ Online judges workspace
     |   +-- 10608 - Friends.cpp
     |   +-- 10653 - Bombs! NO they are Mines!!.cpp
     |   +-- 10684 - The jackpot.cpp
-    |   \-- 10685 - Nature.cpp
+    |   +-- 10685 - Nature.cpp
+    |   \-- 10696 - f91.cpp
     +-- V107
     |   +-- 10700 - Camel trading.cpp
     |   +-- 10714 - Ants.cpp
