@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `202`
+#### Problem solved : `203`
 ```
 +-- Codeforces
 |   \-- V05
@@ -155,6 +155,7 @@ Online judges workspace
     |   +-- 10305 - Ordering Tasks.cpp
     |   +-- 10327 - Flip Sort.cpp
     |   +-- 10369 - Arctic Network.cpp
+    |   +-- 10370 - Above Average.cpp
     |   +-- 10391 - Compound Words.cpp
     |   \-- 10394 - Twin Primes.cpp
     +-- V104
