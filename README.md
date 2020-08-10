@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `200`
+#### Problem solved : `201`
 ```
 +-- HDU
 |   +-- V27-36XX
@@ -145,7 +145,8 @@ Online judges workspace
     |   +-- 10236 - The Fibonacci Primes.cpp
     |   +-- 10245 - The Closest Pair Problem.cpp
     |   +-- 10252 - Common Permutation.cpp
-    |   \-- 10268 - 498-bis.cpp
+    |   +-- 10268 - 498-bis.cpp
+    |   \-- 10295 - Hay Points.cpp
     +-- V103
     |   +-- 10300 - Ecological Premium.cpp
     |   +-- 10305 - Ordering Tasks.cpp
