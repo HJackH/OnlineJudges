@@ -5,7 +5,7 @@ Online judges workspace
 ## List
 #### Problem solved : `205`
 ```
-+-- Codeforces
++-- CF
 |   \-- V05
 |       \-- 567B - Berland National Library.cpp
 +-- HDU
