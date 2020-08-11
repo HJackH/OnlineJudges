@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `207`
+#### Problem solved : `208`
 ```
 +-- CF
 |   +-- V05
@@ -11,6 +11,8 @@ Online judges workspace
 |   \-- V13
 |       \-- 1374C - Move Brackets.cpp
 +-- HDU
+|   +-- V01-10XX
+|   |   \-- 1083 - Courses.cpp
 |   +-- V27-36XX
 |   |   \-- 3613 - Best Reward.cpp
 |   +-- V30-39XX
