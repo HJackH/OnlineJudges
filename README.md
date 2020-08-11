@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `210`
+#### Problem solved : `211`
 ```
 +-- CF
 |   +-- V05
@@ -139,6 +139,7 @@ Online judges workspace
     +-- V101
     |   +-- 10101 - Bangla Numbers.cpp
     |   +-- 10107 - What is the Median.cpp
+    |   +-- 10110 - Light, more light.cpp
     |   +-- 10114 - Loansome Car Buyer.cpp
     |   +-- 10125 - Sumsets.cpp
     |   +-- 10130 - SuperSale.cpp
