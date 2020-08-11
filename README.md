@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `206`
+#### Problem solved : `207`
 ```
 +-- CF
 |   +-- V05
@@ -188,6 +188,7 @@ Online judges workspace
     +-- V109
     |   +-- 10924 - Prime Words.cpp
     |   +-- 10929 - You can say 11.cpp
+    |   +-- 10930 - A-Sequence.cpp
     |   +-- 10935 - Throwing cards away I.cpp
     |   +-- 10945 - Mother Bear.cpp
     |   +-- 10954 - Add All.cpp
