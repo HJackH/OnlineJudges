@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `214`
+#### Problem solved : `215`
 ```
 +-- CF
 |   +-- V05
@@ -156,6 +156,7 @@ Online judges workspace
     |   +-- 10245 - The Closest Pair Problem.cpp
     |   +-- 10252 - Common Permutation.cpp
     |   +-- 10268 - 498-bis.cpp
+    |   +-- 10285 - Longest Run on a Snowboard.cpp
     |   \-- 10295 - Hay Points.cpp
     +-- V103
     |   +-- 10300 - Ecological Premium.cpp
