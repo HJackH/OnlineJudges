@@ -10,11 +10,7 @@ int main() {
         cin >> input;
         int n = input.length();
         string ans = input;
-
-        for (int i = 0; i < n; i++) {
-            input += input[i];
-        }
-
+        input += input;
         for (int i = 1; i < n; i++) {
             ans = min(ans, input.substr(i, n));
         }
