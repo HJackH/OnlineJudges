@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `220`
+#### Problem solved : `221`
 ```
 +-- CF
 |   +-- V05
@@ -197,6 +197,7 @@ Online judges workspace
     +-- V108
     |   +-- 10810 - Ultra-QuickSort.cpp
     |   +-- 10812 - Beat the Spread!.cpp
+    |   +-- 10813 - Traditional BINGO.cpp
     |   +-- 10814 - Simplifying Fractions.java
     |   \-- 10815 - Andy's First Dictionary.cpp
     +-- V109
