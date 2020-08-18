@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `221`
+#### Problem solved : `222`
 ```
 +-- CF
 |   +-- V05
@@ -74,6 +74,7 @@ Online judges workspace
     |   \-- 495 - Fibonacci Freeze.java
     +-- V005
     |   +-- 514 - Rails.cpp
+    |   +-- 524 - Prime Ring Problem.cpp
     |   +-- 532 - Dungeon Master.cpp
     |   +-- 539 - The Settlers of Catan.cpp
     |   +-- 540 - Team Queue.cpp
