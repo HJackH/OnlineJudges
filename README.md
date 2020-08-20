@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `224`
+#### Problem solved : `225`
 ```
 +-- CF
 |   +-- V05
@@ -32,6 +32,8 @@ Online judges workspace
 |   |   \-- 2309 - BST.cpp
 |   +-- V16-25XX
 |   |   \-- 2503 - Babelfish.cpp
+|   +-- V23-32XX
+|   |   \-- 3278 - Catch That Cow.cpp
 |   +-- V24-33XX
 |   |   +-- 3321 - Apple Tree.cpp
 |   |   \-- 3367 - Expressions.cpp
