@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `225`
+#### Problem solved : `226`
 ```
 +-- CF
 |   +-- V05
@@ -58,6 +58,7 @@ Online judges workspace
     |   \-- 299 - Train Swapping.cpp
     +-- V003
     |   +-- 311 - Packets.cpp
+    |   +-- 314 - Robot.cpp
     |   +-- 353 - Pesky Palindromes.cpp
     |   +-- 357 - Let Me Count The Ways.cpp
     |   \-- 374 - Big Mod.cpp
