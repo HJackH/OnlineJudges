@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `228`
+#### Problem solved : `229`
 ```
 +-- CF
 |   +-- V05
@@ -121,6 +121,7 @@ Online judges workspace
     |   \-- 1237 - Expert Enough.cpp
     +-- V013
     |   +-- 1316 - Supermarket.cpp
+    |   +-- 1329 - Corporative Network.cpp
     |   +-- 1330 - City Game.cpp
     |   +-- 1335 - Beijin Guards.cpp
     |   \-- 1395 - Slim Span.cpp
