@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `230`
+#### Problem solved : `231`
 ```
 +-- CF
 |   +-- V05
@@ -225,6 +225,7 @@ Online judges workspace
     |   +-- 11059 - Maximum Product.cpp
     |   +-- 11060 - Beverages.cpp
     |   +-- 11063 - B2-Sequence.cpp
+    |   +-- 11078 - Open Credit System.cpp
     |   \-- 11094 - Continents.cpp
     +-- V111
     |   +-- 11129 - An antiarithmetic permutation.cpp
