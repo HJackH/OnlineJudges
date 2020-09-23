@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `229`
+#### Problem solved : `230`
 ```
 +-- CF
 |   +-- V05
@@ -281,6 +281,7 @@ Online judges workspace
     |   \-- 11997 - K Smallest Sums.cpp
     +-- V120
     |   +-- 12019 - Doom's Day Algorithm.cpp
+    |   +-- 12032 - The Monkey and the Oiled Bamboo.cpp
     |   +-- 12086 - Potentiometers.cpp
     |   \-- 12097 - Pie.cpp
     +-- V121
