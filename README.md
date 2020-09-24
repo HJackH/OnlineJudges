@@ -3,13 +3,15 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `232`
+#### Problem solved : `233`
 ```
 +-- CF
 |   +-- V00
 |   |   \-- 1A - Theatre Square.cpp
 |   +-- V05
 |   |   \-- 567B - Berland National Library.cpp
+|   +-- V09
+|   |   \-- 977A - Wrong Subtraction.cpp
 |   \-- V13
 |       \-- 1374C - Move Brackets.cpp
 +-- HDU
