@@ -3,11 +3,13 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `233`
+#### Problem solved : `234`
 ```
 +-- CF
 |   +-- V00
 |   |   \-- 1A - Theatre Square.cpp
+|   +-- V01
+|   |   \-- 115A - Party.cpp
 |   +-- V05
 |   |   \-- 567B - Berland National Library.cpp
 |   +-- V09
