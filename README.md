@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `240`
+#### Problem solved : `241`
 ```
 +-- CF
 |   +-- V00
@@ -286,6 +286,7 @@ Online judges workspace
     |   +-- 11827 - Maximum GCD.cpp
     |   +-- 11831 - Sticker Collector Robots.cpp
     |   +-- 11849 - CD.cpp
+    |   +-- 11854 - Egypt.cpp
     |   \-- 11865 - Stream My Contest.cpp
     +-- V119
     |   +-- 11933 - Splitting Numbers.cpp
