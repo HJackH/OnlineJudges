@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `241`
+#### Problem solved : `242`
 ```
 +-- CF
 |   +-- V00
@@ -12,6 +12,8 @@ Online judges workspace
 |   |   \-- 115A - Party.cpp
 |   +-- V05
 |   |   \-- 567B - Berland National Library.cpp
+|   +-- V07
+|   |   \-- 766B - Mahmoud and a Triangle.cpp
 |   +-- V08
 |   |   \-- 862B - Mahmoud and Ehab and the bipartiteness.cpp
 |   +-- V09
