@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `242`
+#### Problem solved : `243`
 ```
 +-- CF
 |   +-- V00
@@ -21,9 +21,11 @@ Online judges workspace
 |   |   \-- 977A - Wrong Subtraction.cpp
 |   +-- V10
 |   |   \-- 1057A - Bmail Computer Network.cpp
-|   \-- V13
-|       +-- 1368A - C+=.cpp
-|       \-- 1374C - Move Brackets.cpp
+|   +-- V13
+|   |   +-- 1368A - C+=.cpp
+|   |   \-- 1374C - Move Brackets.cpp
+|   \-- V14
+|       \-- 1419A - Digit Game.cpp
 +-- HDU
 |   +-- V01-10XX
 |   |   \-- 1083 - Courses.cpp
