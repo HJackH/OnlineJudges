@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `245`
+#### Problem solved : `246`
 ```
 +-- CF
 |   +-- V00
@@ -13,7 +13,8 @@ Online judges workspace
 |   |   +-- 115A - Party.cpp
 |   |   \-- 158A - Next Round.cpp
 |   +-- V05
-|   |   \-- 567B - Berland National Library.cpp
+|   |   +-- 567B - Berland National Library.cpp
+|   |   \-- 580C - Kefa and Park.cpp
 |   +-- V07
 |   |   \-- 766B - Mahmoud and a Triangle.cpp
 |   +-- V08
