@@ -3,11 +3,12 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `244`
+#### Problem solved : `245`
 ```
 +-- CF
 |   +-- V00
-|   |   \-- 1A - Theatre Square.cpp
+|   |   +-- 1A - Theatre Square.cpp
+|   |   \-- 25A - IQ test.cpp
 |   +-- V01
 |   |   +-- 115A - Party.cpp
 |   |   \-- 158A - Next Round.cpp
