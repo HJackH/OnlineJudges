@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `248`
+#### Problem solved : `249`
 ```
 +-- CF
 |   +-- V00
@@ -219,6 +219,7 @@ Online judges workspace
     |   \-- 10696 - f91.cpp
     +-- V107
     |   +-- 10700 - Camel trading.cpp
+    |   +-- 10706 - Number Sequence.cpp
     |   +-- 10714 - Ants.cpp
     |   +-- 10717 - Mint.cpp
     |   +-- 10718 - Bit Mask.cpp
