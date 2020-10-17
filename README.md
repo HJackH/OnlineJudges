@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `249`
+#### Problem solved : `250`
 ```
 +-- CF
 |   +-- V00
@@ -114,6 +114,7 @@ Online judges workspace
     +-- V006
     |   +-- 612 - DNA Sorting.cpp
     |   +-- 657 - The die is cast.cpp
+    |   +-- 668 - Parliament.cpp
     |   +-- 673 - Parentheses Balance.cpp
     |   +-- 679 - Dropping Balls.cpp
     |   \-- 686 - Goldbach's Conjecture (II).cpp
