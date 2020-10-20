@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `250`
+#### Problem solved : `251`
 ```
 +-- CF
 |   +-- V00
@@ -169,6 +169,7 @@ Online judges workspace
     |   +-- 10038 - Jolly Jumpers.cpp
     |   +-- 10041 - Vito's family.cpp
     |   +-- 10048 - Audiophobia.cpp
+    |   +-- 10050 - Hartals.cpp
     |   +-- 10055 - Hashmat the brave warrior.cpp
     |   +-- 10062 - Tell me the frequencies!.cpp
     |   +-- 10066 - The Twin Towers.cpp
