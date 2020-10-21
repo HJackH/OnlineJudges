@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `252`
+#### Problem solved : `253`
 ```
 +-- CF
 |   +-- V00
@@ -195,6 +195,7 @@ Online judges workspace
     |   +-- 10236 - The Fibonacci Primes.cpp
     |   +-- 10245 - The Closest Pair Problem.cpp
     |   +-- 10252 - Common Permutation.cpp
+    |   +-- 10267 - Graphical Editor.cpp
     |   +-- 10268 - 498-bis.cpp
     |   +-- 10285 - Longest Run on a Snowboard.cpp
     |   \-- 10295 - Hay Points.cpp
