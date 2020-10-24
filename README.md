@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `253`
+#### Problem solved : `254`
 ```
 +-- CF
 |   +-- V00
@@ -93,6 +93,7 @@ Online judges workspace
     |   +-- 452 - Project Scheduling.cpp
     |   +-- 458 - The Decoder.cpp
     |   +-- 481 - What Goes Up.cpp
+    |   +-- 482 - Permutation Arrays.cpp
     |   +-- 484 - The Department of Redundancy Department.cpp
     |   +-- 488 - Triangle Wave.cpp
     |   +-- 490 - Rotating Sentences.cpp
