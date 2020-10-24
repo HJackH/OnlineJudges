@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `254`
+#### Problem solved : `255`
 ```
 +-- CF
 |   +-- V00
@@ -98,7 +98,8 @@ Online judges workspace
     |   +-- 488 - Triangle Wave.cpp
     |   +-- 490 - Rotating Sentences.cpp
     |   +-- 494 - Kindergarten Counting Game.cpp
-    |   \-- 495 - Fibonacci Freeze.java
+    |   +-- 495 - Fibonacci Freeze.java
+    |   \-- 496 - Simply Subsets.cpp
     +-- V005
     |   +-- 514 - Rails.cpp
     |   +-- 524 - Prime Ring Problem.cpp
