@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `259`
+#### Problem solved : `260`
 ```
 +-- CF
 |   +-- V00
@@ -85,7 +85,8 @@ Online judges workspace
     |   +-- 314 - Robot.cpp
     |   +-- 353 - Pesky Palindromes.cpp
     |   +-- 357 - Let Me Count The Ways.cpp
-    |   \-- 374 - Big Mod.cpp
+    |   +-- 374 - Big Mod.cpp
+    |   \-- 389 - Basically Speaking.cpp
     +-- V004
     |   +-- 401 - Palindromes.cpp
     |   +-- 429 - Word Transformation.cpp
