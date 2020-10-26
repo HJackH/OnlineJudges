@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `258`
+#### Problem solved : `259`
 ```
 +-- CF
 |   +-- V00
@@ -332,6 +332,8 @@ Online judges workspace
     |   \-- 12532 - Interval Product.cpp
     +-- V126
     |   \-- 12694 - Meeting Room Arrangement.cpp
+    +-- V128
+    |   \-- 12895 - Armstrong Number.cpp
     +-- V129
     |   \-- 12918 - Lucky Thief.cpp
     \-- V130
