@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `261`
+#### Problem solved : `262`
 ```
 +-- CF
 |   +-- V00
@@ -138,7 +138,8 @@ Online judges workspace
     |   +-- 908 - Re-connecting Computer Sites.cpp
     |   +-- 913 - Joana and the Odd Numbers.cpp
     |   +-- 924 - Spreading the News.cpp
-    |   \-- 929 - Number Maze.cpp
+    |   +-- 929 - Number Maze.cpp
+    |   \-- 993 - Product of digits.cpp
     +-- V010
     |   \-- 1073 - Glenbow Museum.cpp
     +-- V011
