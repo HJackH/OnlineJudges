@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `263`
+#### Problem solved : `264`
 ```
 +-- CF
 |   +-- V00
@@ -114,6 +114,7 @@ Online judges workspace
     |   +-- 568 - Just the Facts.cpp
     |   +-- 572 - Oil Deposits.cpp
     |   +-- 573 - The Snail.cpp
+    |   +-- 574 - Sum It Up.cpp
     |   +-- 583 - Prime Factors.cpp
     |   \-- 591 - Box of Bricks.cpp
     +-- V006
