@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `265`
+#### Problem solved : `266`
 ```
 +-- CF
 |   +-- V00
@@ -237,6 +237,7 @@ Online judges workspace
     |   +-- 10717 - Mint.cpp
     |   +-- 10718 - Bit Mask.cpp
     |   +-- 10721 - Bar Codes.cpp
+    |   +-- 10739 - String to Palindrome.cpp
     |   \-- 10783 - Odd Sum.cpp
     +-- V108
     |   +-- 10810 - Ultra-QuickSort.cpp
