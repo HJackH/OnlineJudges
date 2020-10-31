@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `268`
+#### Problem solved : `269`
 ```
 +-- CF
 |   +-- V00
@@ -93,6 +93,7 @@ Online judges workspace
     |   +-- 439 - Knight Moves.cpp
     |   +-- 441 - Lotto.cpp
     |   +-- 452 - Project Scheduling.cpp
+    |   +-- 457 - Linear Cellular Automata.cpp
     |   +-- 458 - The Decoder.cpp
     |   +-- 459 - Graph Connectivity.cpp
     |   +-- 481 - What Goes Up.cpp
