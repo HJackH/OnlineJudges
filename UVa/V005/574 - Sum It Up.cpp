@@ -6,7 +6,6 @@ const int MAXN = 12 + 5;
 
 int t, n, a[MAXN];
 int choose[MAXN];
-vector<vector<int>> ans;
 unordered_set<string> vis;
 
 void dfs(int i, int l, int sum) {
@@ -14,11 +13,18 @@ void dfs(int i, int l, int sum) {
         return;
     }
     if (sum == t) {
-        vector<int> tmp;
-        for (int i = 1; i <= l; i++) {
-            tmp.pb(choose[i]);
+        string s;
+        for (int i = 1, first = 1; i <= l; i++) {
+            if (!first) {
+                s += '+';
+            }
+            first = 0;
+            s += to_string(choose[i]);
         }
-        ans.pb(tmp);
+        if (!vis.count(s)) {
+            cout << s << '\n';
+            vis.insert(s);
+        }
         return;
     }
 
@@ -30,33 +36,15 @@ void dfs(int i, int l, int sum) {
 
 int main() { IOS
     while (cin >> t >> n && n) {
-        ans.clear();
         vis.clear();
         for (int i = 1; i <= n; i++) {
             cin >> a[i];
         }
 
-        dfs(0, 0, 0);
-
         cout << "Sums of " << t << ":\n";
-        if (ans.empty()) {
+        dfs(0, 0, 0);
+        if (vis.empty()) {
             cout << "NONE\n";
-        } else {
-            for (auto v : ans) {
-                string s;
-                int first = 1;
-                for (auto i : v) {
-                    if (!first) {
-                        s += '+';
-                    }
-                    first = 0;
-                    s += to_string(i);
-                }
-                if (!vis.count(s)) {
-                    cout << s << '\n';
-                    vis.insert(s);
-                }
-            }
         }
     }
 }
