@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `270`
+#### Problem solved : `271`
 ```
 +-- CF
 |   +-- V00
@@ -329,7 +329,8 @@ Online judges workspace
     |   \-- 12097 - Pie.cpp
     +-- V121
     |   +-- 12100 - Printer Queue.cpp
-    |   \-- 12124 - Assemble.cpp
+    |   +-- 12124 - Assemble.cpp
+    |   \-- 12190 - Electric Bill.cpp
     +-- V122
     |   \-- 12289 - One-Two-Three.cpp
     +-- V123
