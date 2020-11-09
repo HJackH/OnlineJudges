@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `271`
+#### Problem solved : `272`
 ```
 +-- CF
 |   +-- V00
@@ -334,6 +334,7 @@ Online judges workspace
     +-- V122
     |   \-- 12289 - One-Two-Three.cpp
     +-- V123
+    |   +-- 12321 - Gas Stations.cpp
     |   \-- 12356 - Army buddies.cpp
     +-- V124
     |   +-- 12405 - Scarecrow.cpp
