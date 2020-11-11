@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `274`
+#### Problem solved : `275`
 ```
 +-- CF
 |   +-- V00
@@ -31,6 +31,7 @@ Online judges workspace
 |   |   \-- 1374C - Move Brackets.cpp
 |   \-- V14
 |       +-- 1419A - Digit Game.cpp
+|       +-- 1430A - Number of Apartments.cpp
 |       \-- 1436A - Reorder.cpp
 +-- HDU
 |   +-- V01-10XX
