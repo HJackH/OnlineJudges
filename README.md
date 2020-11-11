@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `272`
+#### Problem solved : `273`
 ```
 +-- CF
 |   +-- V00
@@ -178,6 +178,7 @@ Online judges workspace
     |   +-- 10018 - Reverse and Add.cpp
     |   +-- 10034 - Freckles.cpp
     |   +-- 10035 - Primary Arithmetic.cpp
+    |   +-- 10037 - Bridge.cpp
     |   +-- 10038 - Jolly Jumpers.cpp
     |   +-- 10041 - Vito's family.cpp
     |   +-- 10048 - Audiophobia.cpp
