@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `276`
+#### Problem solved : `277`
 ```
 +-- CF
 |   +-- V00
@@ -76,6 +76,7 @@ Online judges workspace
     |   +-- 136 - Ugly Numbers.cpp
     |   +-- 146 - ID Codes.cpp
     |   +-- 147 - Dollars.cpp
+    |   +-- 160 - Factors and Factorials.cpp
     |   \-- 167 - The Sultan's Successors.cpp
     +-- V002
     |   +-- 263 - Number Chains.cpp
