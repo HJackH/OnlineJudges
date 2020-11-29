@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `282`
+#### Problem solved : `283`
 ```
 +-- CF
 |   +-- V00
@@ -287,6 +287,7 @@ Online judges workspace
     +-- V112
     |   +-- 11228 - Transportation system.cpp
     |   +-- 11264 - Coin Collector.cpp
+    |   +-- 11283 - Playing Boggle.cpp
     |   \-- 11286 - Conformity.cpp
     +-- V113
     |   +-- 11321 - Sort! Sort!! And Sort!!!.cpp
