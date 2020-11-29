@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `283`
+#### Problem solved : `284`
 ```
 +-- CF
 |   +-- V00
@@ -181,6 +181,7 @@ Online judges workspace
     |   \-- 1623 - Enter The Dragon.cpp
     +-- V100
     |   +-- 10000 - Longest Paths.cpp
+    |   +-- 10003 - Cutting Sticks.cpp
     |   +-- 10004 - Bicoloring.cpp
     |   +-- 10008 - What's Cryptanalysis.cpp
     |   +-- 10018 - Reverse and Add.cpp
