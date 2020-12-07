@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `286`
+#### Problem solved : `287`
 ```
 +-- CF
 |   +-- V00
@@ -96,6 +96,7 @@ Online judges workspace
     |   \-- 389 - Basically Speaking.cpp
     +-- V004
     |   +-- 401 - Palindromes.cpp
+    |   +-- 406 - Prime Cuts.cpp
     |   +-- 429 - Word Transformation.cpp
     |   +-- 439 - Knight Moves.cpp
     |   +-- 441 - Lotto.cpp
