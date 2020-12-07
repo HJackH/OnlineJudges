@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `285`
+#### Problem solved : `286`
 ```
 +-- CF
 |   +-- V00
@@ -322,6 +322,7 @@ Online judges workspace
     |   +-- 11727 - Cost Cutting.cpp
     |   +-- 11730 - Number Transformation.cpp
     |   +-- 11747 - Heavy Cycle Edges.cpp
+    |   +-- 11764 - Jumping Mario.cpp
     |   \-- 11799 - Horror Dash.cpp
     +-- V118
     |   +-- 11827 - Maximum GCD.cpp
