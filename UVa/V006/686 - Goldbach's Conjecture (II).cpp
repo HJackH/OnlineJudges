@@ -1,59 +1,43 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define IOS ios_base::sync_with_stdio(0); cin.tie(0);
+#define pb push_back
+const int MAXN = (1 << 15) + 5;
 
-const int MAXN = 2 << 15;
+vector<int> p;
 
-vector<int> lp(MAXN + 50, 0);
-vector<int> prime;
-int n, sz;
-
-void run() {
+void table() {
+    vector<bool> vis(MAXN + 5, 0);
     for (int i = 2; i <= MAXN; i++) {
-        if (lp[i] == 0) {
-            lp[i] = i;
-            prime.push_back(i);
+        if (!vis[i]) {
+            p.pb(i);
         }
-
-        for (int j = 0; (j < prime.size()) && (prime[j] <= lp[i]) && (i * prime[j] <= MAXN); j++) {
-            lp[i * prime[j]] = prime[j];
-        }
-    }
-    sz = prime.size();
-}
-
-int BSearch(int x) {
-    int left = 0, right = sz - 1, mid;
-
-    while (left <= right) {
-        mid = (left + right) / 2;
-        if (prime[mid] <= x && x < prime[mid + 1]) {
-            return mid;
-        } else if (x < prime[mid]) {
-            right = mid - 1;
-        } else {
-            left = mid + 1;
-        }
-    }
-    return -1;
-}
-
-int main() {
-    run();
-
-    while (cin >> n && n) {
-        
-        int L = 0, R = BSearch(n), cnt = 0;
-        while (L <= R && prime[L] <= (n + 1) / 2) {
-            if (prime[L] + prime[R] > n) {
-                R--;
-            } else if (prime[L] + prime[R] < n) {
-                L++;
-            } else {
-                cnt++;
-                L++;
-                R--;
+        for (int &j : p) {
+            if (i * j > MAXN) {
+                break;
+            }
+            vis[i * j] = 1;
+            if (i % j == 0) {
+                break;
             }
         }
-        cout << cnt << endl;
+    }
+}
+
+int main() { IOS
+    table();
+
+    int n;
+    while (cin >> n && n) {
+        int ans = 0;
+        for (int i : p) {
+            if (i > n / 2) {
+                break;
+            }
+            if (binary_search(p.begin(), p.end(), n - i)) {
+                ++ans;
+            }
+        }
+        cout << ans << '\n';
     }
 }
