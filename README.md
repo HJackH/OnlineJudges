@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `288`
+#### Problem solved : `289`
 ```
 +-- CF
 |   +-- V00
@@ -80,6 +80,7 @@ Online judges workspace
     |   +-- 136 - Ugly Numbers.cpp
     |   +-- 146 - ID Codes.cpp
     |   +-- 147 - Dollars.cpp
+    |   +-- 151 - Power Crisis.cpp
     |   +-- 160 - Factors and Factorials.cpp
     |   \-- 167 - The Sultan's Successors.cpp
     +-- V002
