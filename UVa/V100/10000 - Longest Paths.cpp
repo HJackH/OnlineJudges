@@ -1,17 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+#define IOS ios_base::sync_with_stdio(0); cin.tie(0);
 const int MAXN = 200;
 
 struct Edge {
     int to;
     int cost;
 
-    Edge(int _to, int _cost) {
-        to = _to;
-        cost = _cost;
-    }
-
+    Edge(int _to, int _cost) : to(_to), cost(_cost) {}
     bool operator < (Edge const &other) const {
         return cost < other.cost;
     }
@@ -50,22 +46,13 @@ void djk() {
     }
 }
     
-int main() {
-
-    while (cin >> N) {
-        if (N == 0) {
-            break;
-        }
-
+int main() { IOS
+    while (cin >> N && N) {
         init();
 
         cin >> start;
         int p, q;
-        while (cin >> p >> q) {
-            if (p == 0 && q == 0) {
-                break;
-            }
-
+        while (cin >> p >> q && (p || q)) {
             G[p].push_back(Edge(q, 1));
         }
 
