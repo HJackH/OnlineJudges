@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `293`
+#### Problem solved : `294`
 ```
 +-- CF
 |   +-- V00
@@ -93,6 +93,7 @@ Online judges workspace
     +-- V003
     |   +-- 311 - Packets.cpp
     |   +-- 314 - Robot.cpp
+    |   +-- 352 - The Seasonal War.cpp
     |   +-- 353 - Pesky Palindromes.cpp
     |   +-- 357 - Let Me Count The Ways.cpp
     |   +-- 374 - Big Mod.cpp
