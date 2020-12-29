@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `295`
+#### Problem solved : `296`
 ```
 +-- CF
 |   +-- V00
@@ -343,6 +343,7 @@ Online judges workspace
     +-- V119
     |   +-- 11933 - Splitting Numbers.cpp
     |   +-- 11953 - Battleships.cpp
+    |   +-- 11960 - Divisor Game.cpp
     |   +-- 11991 - Easy Problem from Rujia Liu.cpp
     |   +-- 11995 - I Can Guess the Data Structure!.cpp
     |   \-- 11997 - K Smallest Sums.cpp
