@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `296`
+#### Problem solved : `297`
 ```
 +-- CF
 |   +-- V00
@@ -322,7 +322,8 @@ Online judges workspace
     |   +-- 11547 - Automatic Answer.cpp
     |   +-- 11549 - Calculator Conundrum.cpp
     |   +-- 11559 - Event Planning.cpp
-    |   \-- 11572 - Unique Snowflakes.cpp
+    |   +-- 11572 - Unique Snowflakes.cpp
+    |   \-- 11584 - Partitioning by Palindromes.cpp
     +-- V116
     |   +-- 11624 - Fire!.cpp
     |   +-- 11631 - Dark roads.cpp
