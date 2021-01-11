@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `300`
+#### Problem solved : `301`
 ```
 +-- CF
 |   +-- V00
@@ -234,6 +234,7 @@ Online judges workspace
     +-- V103
     |   +-- 10300 - Ecological Premium.cpp
     |   +-- 10305 - Ordering Tasks.cpp
+    |   +-- 10325 - The Lottery.cpp
     |   +-- 10327 - Flip Sort.cpp
     |   +-- 10329 - Combinatorial Expression.py
     |   +-- 10340 - All in All.cpp
