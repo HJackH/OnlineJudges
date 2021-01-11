@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `302`
+#### Problem solved : `303`
 ```
 +-- CF
 |   +-- V00
@@ -274,6 +274,7 @@ Online judges workspace
     |   +-- 10813 - Traditional BINGO.cpp
     |   +-- 10814 - Simplifying Fractions.java
     |   +-- 10815 - Andy's First Dictionary.cpp
+    |   +-- 10856 - Recover Factorial.cpp
     |   \-- 10862 - Connect the Cable Wires.py
     +-- V109
     |   +-- 10924 - Prime Words.cpp
