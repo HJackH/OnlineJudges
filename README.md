@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `298`
+#### Problem solved : `299`
 ```
 +-- CF
 |   +-- V00
@@ -80,6 +80,7 @@ Online judges workspace
     |   +-- 111 - History Grading.cpp
     |   +-- 113 - Power of Cryptography.cpp
     |   +-- 136 - Ugly Numbers.cpp
+    |   +-- 140 - Bandwidth.cpp
     |   +-- 146 - ID Codes.cpp
     |   +-- 147 - Dollars.cpp
     |   +-- 151 - Power Crisis.cpp
