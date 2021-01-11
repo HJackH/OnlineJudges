@@ -1,37 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define IOS ios_base::sync_with_stdio(0); cin.tie(0);
+const int MAXN = 2000 + 5;
 
-const int MAXN = 4000 + 5;
+int n, a[MAXN * 2];
 
-int n, a[MAXN + 5], dp[MAXN];
+int LIS() {
+    vector<int> ans;
+    for (int i = 0; i < n; i++) {
+        if (ans.empty() || ans.back() < a[i]) {
+            ans.push_back(a[i]);
+        } else {
+            *lower_bound(ans.begin(), ans.end(), a[i]) = a[i];
+        }
+    }
+    return ans.size();
+}
 
-int main() {
+int main() { IOS
     int T;
     cin >> T;
     while (T--) {
         cin >> n;
-        deque<int> dq;
+
+        // add reversed array to the front
+        // a = 1, 2, 3
+        // a -> 3, 2, 1, 1, 2, 3
         for (int i = 0; i < n; i++) {
             cin >> a[i];
-            dq.push_front(a[i]);
-            dq.push_back(a[i]);
+            a[i + n] = a[i];
         }
+        reverse(a, a + n);
 
+        // now array have 2n elements
         n *= 2;
-        for (int i = 0; i < n; i++) {
-            dp[i] = 1;
-        }
-
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (dq[j] > dq[i]) {
-                    dp[j] = max(dp[j], dp[i] + 1);
-                }
-            }
-            ans = max(ans, dp[i]);
-        }
-
-        cout << ans << '\n';
+        cout << LIS() << '\n';        
     }
 }
