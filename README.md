@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `299`
+#### Problem solved : `300`
 ```
 +-- CF
 |   +-- V00
@@ -162,7 +162,8 @@ Online judges workspace
     |   \-- 1073 - Glenbow Museum.cpp
     +-- V011
     |   +-- 1175 - Ladies' Choice.cpp
-    |   \-- 1193 - Radar Installation.cpp
+    |   +-- 1193 - Radar Installation.cpp
+    |   \-- 1198 - The Geodetic Set Problem.cpp
     +-- V012
     |   +-- 1201 - Taxi Cab Scheme.cpp
     |   +-- 1203 - Argus.cpp
