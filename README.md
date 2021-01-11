@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `301`
+#### Problem solved : `302`
 ```
 +-- CF
 |   +-- V00
@@ -239,6 +239,7 @@ Online judges workspace
     |   +-- 10329 - Combinatorial Expression.py
     |   +-- 10340 - All in All.cpp
     |   +-- 10346 - Peter's Smokes.cpp
+    |   +-- 10360 - Rat Attack.cpp
     |   +-- 10369 - Arctic Network.cpp
     |   +-- 10370 - Above Average.cpp
     |   +-- 10391 - Compound Words.cpp
