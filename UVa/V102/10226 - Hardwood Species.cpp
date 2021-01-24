@@ -10,25 +10,25 @@ int main() {
     cin.ignore(1);
     getline(cin, input);
 
-    for (int t = 0; t < T; t++) {
-        n = 0;
+    while (T--) {
         M.clear();
+        n = 0;
 
         while (getline(cin, input) && input.length() > 0) {
-            if (M.find(input) == M.end()) {
-                M[input] = 1;
+            if (M.count(input)) {
+                ++M[input];
             } else {
-                M[input]++;
+                M[input] = 1;
             }
-            n++;
+            ++n;
         }
 
-        for (auto i = M.begin(); i != M.end(); i++) {
-            cout << i -> first << ' ';
-            printf("%.4lf\n", (double)(i -> second) * 100 / n);
+        for (auto i : M) {
+            printf("%s %.4lf\n", i.first.c_str(), i.second * 100.0 / n);
         }
-        if (t != T - 1) {
-            cout << '\n';    
+
+        if (T) {
+            cout << '\n';
         }
     }
 }
