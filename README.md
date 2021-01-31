@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `303`
+#### Problem solved : `304`
 ```
 +-- CF
 |   +-- V00
@@ -163,6 +163,7 @@ Online judges workspace
     +-- V011
     |   +-- 1175 - Ladies' Choice.cpp
     |   +-- 1193 - Radar Installation.cpp
+    |   +-- 1197 - The Suspects.cpp
     |   \-- 1198 - The Geodetic Set Problem.cpp
     +-- V012
     |   +-- 1201 - Taxi Cab Scheme.cpp
