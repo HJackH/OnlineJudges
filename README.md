@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `305`
+#### Problem solved : `306`
 ```
 +-- CF
 |   +-- V00
@@ -33,6 +33,7 @@ Online judges workspace
 |   |   \-- 1057A - Bmail Computer Network.cpp
 |   +-- V13
 |   |   +-- 1304A - Two Rabbits.cpp
+|   |   +-- 1331D - Again?.cpp
 |   |   +-- 1368A - C+=.cpp
 |   |   \-- 1374C - Move Brackets.cpp
 |   \-- V14
