@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `307`
+#### Problem solved : `308`
 ```
 +-- CF
 |   +-- V00
@@ -316,6 +316,7 @@ Online judges workspace
     |   +-- 11340 - Newspaper.cpp
     |   +-- 11344 - The Huge One.java
     |   +-- 11349 - Symmetric Matrix.cpp
+    |   +-- 11352 - Crazy King.cpp
     |   +-- 11364 - Parking.cpp
     |   +-- 11367 - Full Tank.cpp
     |   +-- 11383 - Golden Tiger Claw.cpp
