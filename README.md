@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `306`
+#### Problem solved : `307`
 ```
 +-- CF
 |   +-- V00
@@ -212,6 +212,7 @@ Online judges workspace
     |   \-- 10098 - Generating Fast.cpp
     +-- V101
     |   +-- 10101 - Bangla Numbers.cpp
+    |   +-- 10104 - Euclid Problem.cpp
     |   +-- 10106 - Product.py
     |   +-- 10107 - What is the Median.cpp
     |   +-- 10110 - Light, more light.cpp
