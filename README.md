@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `309`
+#### Problem solved : `310`
 ```
 +-- CF
 |   +-- V00
@@ -15,6 +15,8 @@ Online judges workspace
 |   |   \-- 158A - Next Round.cpp
 |   +-- V02
 |   |   \-- 219A - k-String.cpp
+|   +-- V04
+|   |   \-- 432A - Choosing Teams.cpp
 |   +-- V05
 |   |   +-- 519B - A and B and C Compilantion Errors.cpp
 |   |   +-- 567B - Berland National Library.cpp
