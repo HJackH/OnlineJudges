@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `310`
+#### Problem solved : `311`
 ```
 +-- CF
 |   +-- V00
@@ -167,6 +167,7 @@ Online judges workspace
     +-- V010
     |   \-- 1073 - Glenbow Museum.cpp
     +-- V011
+    |   +-- 1112 - Mice and Maze.cpp
     |   +-- 1175 - Ladies' Choice.cpp
     |   +-- 1193 - Radar Installation.cpp
     |   +-- 1197 - The Suspects.cpp
