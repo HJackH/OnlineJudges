@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `312`
+#### Problem solved : `313`
 ```
 +-- CF
 |   +-- V00
@@ -227,6 +227,7 @@ Online judges workspace
     |   +-- 10130 - SuperSale.cpp
     |   +-- 10131 - Is Bigger Smarter.cpp
     |   +-- 10152 - ShellSort.cpp
+    |   +-- 10158 - War.cpp
     |   +-- 10167 - Birthday Cake.cpp
     |   +-- 10170 - The Hotel with Infinite Rooms.cpp
     |   \-- 10189 - Minesweeper.cpp
