@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `316`
+#### Problem solved : `317`
 ```
 +-- CF
 |   +-- V00
@@ -235,6 +235,7 @@ Online judges workspace
 |   |   +-- 10222 - Decode the Mad man.cpp
 |   |   +-- 10226 - Hardwood Species.cpp
 |   |   +-- 10236 - The Fibonacci Primes.cpp
+|   |   +-- 10243 - Fire! Fire!! Fire!!!.cpp
 |   |   +-- 10245 - The Closest Pair Problem.cpp
 |   |   +-- 10252 - Common Permutation.cpp
 |   |   +-- 10267 - Graphical Editor.cpp
