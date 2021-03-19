@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `319`
+#### Problem solved : `320`
 ```
 +-- CF
 |   +-- V00
@@ -144,6 +144,7 @@ Online judges workspace
 |   |   +-- 657 - The die is cast.cpp
 |   |   +-- 668 - Parliament.cpp
 |   |   +-- 673 - Parentheses Balance.cpp
+|   |   +-- 674 - Coin Change.cpp
 |   |   +-- 679 - Dropping Balls.cpp
 |   |   \-- 686 - Goldbach's Conjecture (II).cpp
 |   +-- V007
