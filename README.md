@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `323`
+#### Problem solved : `324`
 ```
 +-- CF
 |   +-- V00
@@ -341,6 +341,7 @@ Online judges workspace
 |   |   +-- 11456 - Trainsorting.cpp
 |   |   +-- 11461 - Square Numbers.cpp
 |   |   +-- 11462 - Age Sort.cpp
+|   |   +-- 11495 - Bubbles and Buckets.cpp
 |   |   \-- 11498 - Division of Nlogonia.cpp
 |   +-- V115
 |   |   +-- 11503 - Virtual Friends.cpp
