@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `322`
+#### Problem solved : `323`
 ```
 +-- CF
 |   +-- V00
@@ -284,6 +284,7 @@ Online judges workspace
 |   |   +-- 10721 - Bar Codes.cpp
 |   |   +-- 10730 - Antiarithmetic?.cpp
 |   |   +-- 10739 - String to Palindrome.cpp
+|   |   +-- 10779 - Collector’s Problem.cpp
 |   |   \-- 10783 - Odd Sum.cpp
 |   +-- V108
 |   |   +-- 10810 - Ultra-QuickSort.cpp
