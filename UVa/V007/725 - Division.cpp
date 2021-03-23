@@ -1,78 +1,51 @@
 #include <bits/stdc++.h>
 using namespace std;
+using LL = long long;
+#define IOS ios_base::sync_with_stdio(0); cin.tie(0);
+#define pb push_back
 
-const int MAXN = 79;
-
-struct Num {
-    string up;
-    string down;
-};
-
-bool vis[10 + 5];
-vector<Num> a[MAXN + 5];
-
-void solve() {
-    for (int n = 2; n <= MAXN; n++) {
-        for (int i = 1234; i * n <= 98765; i++) {
-            memset(vis, 0, sizeof(vis));
-            int down = i, up = i * n;
-            if (down < 10000) {
-                vis[0] = true;
-                if (up < 10000) {
-                    continue;
-                }
-            }
-            
-            bool chk = true;
-            while (down) {
-                if (vis[down % 10]) {
-                    chk = false;
-                    break;
-                }
-                vis[down % 10] = true;
-                down /= 10;
-            }
-
-            while (chk && up) {
-                if (vis[up % 10]) {
-                    chk = false;
-                    break;
-                }
-                vis[up % 10] = true;
-                up /= 10;
-            }
-            
-            if (chk) {
-                string strd = to_string(i), stru = to_string(i * n);
-                if (strd.length() == 4) {
-                    strd = "0" + strd;
-                }
-                a[n].push_back({stru, strd});
-            }
+bool chk(string s1, string s2) {
+    vector<int> cnt(10, 0);
+    for (char c : s1) {
+        ++cnt[c - '0'];
+    }
+    for (char c : s2) {
+        ++cnt[c - '0'];
+    }
+    for (int i : cnt) {
+        if (i != 1) {
+            return false;
         }
     }
-    
+    return true;
 }
 
-int main() {
-    solve();
+int main() { IOS
+    int n, first = 1;
+    while (cin >> n && n) {
+        if (!first) {
+            cout << '\n';
+        }
+        first = 0;
 
-    int n;
-    cin >> n;
-    while (true) {
-        if (a[n].size() == 0) {
-            cout << "There are no solutions for " << n << ".\n";
-        } else {
-            for (auto i : a[n]) {
-                cout << i.up << " / " << i.down << " = " << n << '\n';
+        bool output = 0;
+        for (int d = 1234, ed = 98765 / n; d <= ed; d++) {
+            string ds = to_string(d);
+            string us = to_string(n * d);
+            if (us.length() == 4) {
+                us = "0" + us;
+            }
+            if (ds.length() == 4) {
+                ds = "0" + ds;
+            }
+            if (chk(us, ds)) {
+                cout << us << " / " << ds << " = " << n << '\n';
+                output = 1;
             }
         }
 
-        cin >> n;
-        if (n) {
-            cout << '\n';
-        } else {
-            break;
+        if (!output) {
+            cout << "There are no solutions for " << n << ".\n";
         }
     }
 }
