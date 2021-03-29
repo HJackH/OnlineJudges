@@ -30,8 +30,8 @@ int main() { IOS
         }
 
         int ans = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            ans += qry(a[i] - 1);
+        for (int i = 0; i < n; i++) {
+            ans += i - qry(a[i] - 1);
             upd(a[i]);
         }
         if (ans & 1) {
