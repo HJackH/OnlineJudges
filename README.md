@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `328`
+#### Problem solved : `329`
 ```
 +-- CF
 |   +-- V00
@@ -40,7 +40,8 @@ Online judges workspace
 |   |   +-- 1304A - Two Rabbits.cpp
 |   |   +-- 1331D - Again?.cpp
 |   |   +-- 1368A - C+=.cpp
-|   |   \-- 1374C - Move Brackets.cpp
+|   |   +-- 1374C - Move Brackets.cpp
+|   |   \-- 1391C - Cyclic Permutations.cpp
 |   \-- V14
 |       +-- 1419A - Digit Game.cpp
 |       +-- 1430A - Number of Apartments.cpp
