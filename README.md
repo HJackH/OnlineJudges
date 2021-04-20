@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `329`
+#### Problem solved : `331`
 ```
 +-- CF
 |   +-- V00
@@ -209,6 +209,7 @@ Online judges workspace
 |   |   +-- 10004 - Bicoloring.cpp
 |   |   +-- 10008 - What's Cryptanalysis.cpp
 |   |   +-- 10018 - Reverse and Add.cpp
+|   |   +-- 10020 - Minimal coverage.cpp
 |   |   +-- 10034 - Freckles.cpp
 |   |   +-- 10035 - Primary Arithmetic.cpp
 |   |   +-- 10037 - Bridge.cpp
