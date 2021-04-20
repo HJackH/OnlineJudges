@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `333`
+#### Problem solved : `334`
 ```
 +-- CF
 |   +-- V00
@@ -189,6 +189,7 @@ Online judges workspace
 |   |   +-- 1329 - Corporative Network.cpp
 |   |   +-- 1330 - City Game.cpp
 |   |   +-- 1335 - Beijin Guards.cpp
+|   |   +-- 1366 - Martian Mining.cpp
 |   |   \-- 1395 - Slim Span.cpp
 |   +-- V014
 |   |   +-- 1421 - Archery.cpp
