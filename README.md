@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `341`
+#### Problem solved : `342`
 ```
 +-- CF
 |   +-- V00
@@ -172,6 +172,7 @@ Online judges workspace
 |   |   +-- 929 - Number Maze.cpp
 |   |   \-- 993 - Product of digits.cpp
 |   +-- V010
+|   |   +-- 1001 - Say Cheese.cpp
 |   |   \-- 1073 - Glenbow Museum.cpp
 |   +-- V011
 |   |   +-- 1112 - Mice and Maze.cpp
