@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `337`
+#### Problem solved : `338`
 ```
 +-- CF
 |   +-- V00
@@ -293,6 +293,7 @@ Online judges workspace
 |   |   +-- 10779 - Collector’s Problem.cpp
 |   |   \-- 10783 - Odd Sum.cpp
 |   +-- V108
+|   |   +-- 10806 - Dijkstra, Dijkstra.cpp
 |   |   +-- 10810 - Ultra-QuickSort.cpp
 |   |   +-- 10812 - Beat the Spread!.cpp
 |   |   +-- 10813 - Traditional BINGO.cpp
