@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `345`
+#### Problem solved : `346`
 ```
 +-- CF
 |   +-- V00
@@ -363,6 +363,7 @@ Online judges workspace
 |   |   +-- 11503 - Virtual Friends.cpp
 |   |   +-- 11516 - WiFi.cpp
 |   |   +-- 11518 - Dominos 2.cpp
+|   |   +-- 11536 - Smallest Sub-Array.cpp
 |   |   +-- 11541 - Decoding.cpp
 |   |   +-- 11547 - Automatic Answer.cpp
 |   |   +-- 11549 - Calculator Conundrum.cpp
