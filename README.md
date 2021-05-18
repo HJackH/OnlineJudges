@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `344`
+#### Problem solved : `345`
 ```
 +-- CF
 |   +-- V00
@@ -167,6 +167,7 @@ Online judges workspace
 |   |   \-- 884 - Factorial Factors.cpp
 |   +-- V009
 |   |   +-- 908 - Re-connecting Computer Sites.cpp
+|   |   +-- 911 - Multinomial Coefficients.py
 |   |   +-- 913 - Joana and the Odd Numbers.cpp
 |   |   +-- 924 - Spreading the News.cpp
 |   |   +-- 929 - Number Maze.cpp
