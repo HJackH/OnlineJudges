@@ -7,17 +7,17 @@ const int MAXN = 50 + 5;
 int n, l, c[MAXN], dp[MAXN][MAXN];
 
 int solve(int x, int y) {
-    auto &ans = dp[x][y];
-    if (ans > -1) {
-        return ans;
+    if (y - x <= 1) {
+        return 0;
     }
-    if (x + 1 == y) {
-        return ans = 0;
+    auto &ans = dp[x][y];
+    if (ans != -1) {
+        return ans;
     }
     ans = INF;
 
     //find cutting point with minimum cost
-    for (int m = x; m < y; m++) {
+    for (int m = x + 1; m < y; m++) {
         ans = min(ans, solve(x, m) + solve(m, y));
     }
     return ans = ans + c[y] - c[x];
