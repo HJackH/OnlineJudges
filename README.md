@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `349`
+#### Problem solved : `350`
 ```
 +-- CF
 |   +-- V00
@@ -16,6 +16,8 @@ Online judges workspace
 |   +-- V02
 |   |   +-- 219A - k-String.cpp
 |   |   \-- 236A - Boy or Girl.cpp
+|   +-- V03
+|   |   \-- 339B - Xenia and Ringroad.cpp
 |   +-- V04
 |   |   \-- 432A - Choosing Teams.cpp
 |   +-- V05
