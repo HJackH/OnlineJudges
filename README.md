@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `350`
+#### Problem solved : `351`
 ```
 +-- CF
 |   +-- V00
@@ -31,7 +31,8 @@ Online judges workspace
 |   |   +-- 755A - PolandBall and Hypothesis.cpp
 |   |   \-- 766B - Mahmoud and a Triangle.cpp
 |   +-- V08
-|   |   \-- 862B - Mahmoud and Ehab and the bipartiteness.cpp
+|   |   +-- 862B - Mahmoud and Ehab and the bipartiteness.cpp
+|   |   \-- 894A - QAQ.cpp
 |   +-- V09
 |   |   +-- 913B - Christmas Spruce.cpp
 |   |   +-- 939A - Love Triangle.cpp
