@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `348`
+#### Problem solved : `349`
 ```
 +-- CF
 |   +-- V00
@@ -14,7 +14,8 @@ Online judges workspace
 |   |   +-- 115A - Party.cpp
 |   |   \-- 158A - Next Round.cpp
 |   +-- V02
-|   |   \-- 219A - k-String.cpp
+|   |   +-- 219A - k-String.cpp
+|   |   \-- 236A - Boy or Girl.cpp
 |   +-- V04
 |   |   \-- 432A - Choosing Teams.cpp
 |   +-- V05
