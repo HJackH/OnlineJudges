@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `354`
+#### Problem solved : `355`
 ```
 +-- CF
 |   +-- V00
@@ -288,6 +288,7 @@ Online judges workspace
 |   |   +-- 10608 - Friends.cpp
 |   |   +-- 10653 - Bombs! NO they are Mines!!.cpp
 |   |   +-- 10664 - Luggage.cpp
+|   |   +-- 10673 - Play with Floor and Ceil.cpp
 |   |   +-- 10684 - The jackpot.cpp
 |   |   +-- 10685 - Nature.cpp
 |   |   +-- 10689 - Yet another Number Sequence.cpp
