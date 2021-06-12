@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `355`
+#### Problem solved : `356`
 ```
 +-- CF
 |   +-- V00
@@ -260,6 +260,7 @@ Online judges workspace
 |   |   +-- 10252 - Common Permutation.cpp
 |   |   +-- 10267 - Graphical Editor.cpp
 |   |   +-- 10268 - 498-bis.cpp
+|   |   +-- 10269 - Adventure of Super Mario.cpp
 |   |   +-- 10276 - Hanoi Tower Troubles Again!.cpp
 |   |   +-- 10285 - Longest Run on a Snowboard.cpp
 |   |   \-- 10295 - Hay Points.cpp
