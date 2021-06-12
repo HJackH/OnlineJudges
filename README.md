@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `351`
+#### Problem solved : `352`
 ```
 +-- CF
 |   +-- V00
@@ -290,6 +290,7 @@ Online judges workspace
 |   |   +-- 10664 - Luggage.cpp
 |   |   +-- 10684 - The jackpot.cpp
 |   |   +-- 10685 - Nature.cpp
+|   |   +-- 10689 - Yet another Number Sequence.cpp
 |   |   \-- 10696 - f91.cpp
 |   +-- V107
 |   |   +-- 10700 - Camel trading.cpp
