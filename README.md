@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `352`
+#### Problem solved : `353`
 ```
 +-- CF
 |   +-- V00
@@ -359,6 +359,7 @@ Online judges workspace
 |   |   +-- 11413 - Fill the Containers.cpp
 |   |   +-- 11417 - GCD.cpp
 |   |   +-- 11420 - Chest of Drawers.cpp
+|   |   +-- 11450 - Wedding Shopping.cpp
 |   |   +-- 11456 - Trainsorting.cpp
 |   |   +-- 11461 - Square Numbers.cpp
 |   |   +-- 11462 - Age Sort.cpp
