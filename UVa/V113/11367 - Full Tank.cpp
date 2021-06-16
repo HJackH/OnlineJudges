@@ -1,17 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-const int MAXN = 1000 + 50;
+using LL = long long;
+#define IOS ios_base::sync_with_stdio(0); cin.tie(0);
+#define pb push_back
 const int INF = 1e9;
+const int MAXN = 1000 + 5;
 
-struct Edge{
-    int u;
+struct Edge {
     int v;
-    int d;
+    int w;
 };
 
-struct Car{
-    int on;
+struct Car {
+    int v;
     int rem;
     int cost;
     bool operator < (const Car &other) const {
@@ -19,10 +20,11 @@ struct Car{
     }
 };
 
-int n, m, price[MAXN], dp[MAXN][10000 + 50], c;
+int n, m;
+int price[MAXN], dp[MAXN][100 + 5];
 vector<Edge> G[MAXN];
 
-int dijk(int from, int to) {
+int dijk(int st, int ed, int c) {
     for (int i = 0; i < n; i++) {
         for (int j = 0; j <= c; j++) {
             dp[i][j] = INF;
@@ -30,57 +32,56 @@ int dijk(int from, int to) {
     }
 
     priority_queue<Car> pq;
-    pq.push((Car){from, 0, 0});
-    dp[from][0] = 0;
+    pq.push({st, 0, 0});
+    dp[st][0] = 0;
     while (!pq.empty()) {
-        auto i = pq.top();
+        auto now = pq.top();
         pq.pop();
-        if (i.on == to && i.rem == 0) {
-            return i.cost;
-        }
-        if (dp[i.on][i.rem] < i.cost) {
+        if (now.v == ed && now.rem == 0) {
+            return now.cost;
+        }   
+        if (dp[now.v][now.rem] < now.cost) {
             continue;
         }
-        for (auto j : G[i.on]) {
-            if (c < j.d) {
+        for (auto &e : G[now.v]) {
+            if (e.w > now.rem) {
                 continue;
             }
-            for (int k = j.d; k <= c; k++) {
-                int addOil = k - i.rem > 0 ? k - i.rem : 0;
-                if (dp[j.v][k - j.d] > addOil * price[i.on] + i.cost) {
-                    dp[j.v][k - j.d] = addOil * price[i.on] + i.cost;
-                    pq.push((Car){j.v, k - j.d, dp[j.v][k - j.d]});
-                }
+            if (dp[e.v][now.rem - e.w] > now.cost) {
+                dp[e.v][now.rem - e.w] = now.cost;
+                pq.push({e.v, now.rem - e.w, dp[e.v][now.rem - e.w]});
             }
+        }
+        if (now.rem + 1 <= c && dp[now.v][now.rem + 1] > now.cost + price[now.v]) {
+            dp[now.v][now.rem + 1] = now.cost + price[now.v];
+            pq.push({now.v, now.rem + 1, dp[now.v][now.rem + 1]});
         }
     }
     return INF;
 }
 
-int main() {
+int main() { IOS
     while (cin >> n >> m) {
         for (int i = 0; i < n; i++) {
             cin >> price[i];
             G[i].clear();
         }
 
-
-        int a, b, d;
-        for (int i = 0; i < m; i++) {
-            cin >> a >> b >> d;
-            G[a].push_back((Edge){a, b, d});
-            G[b].push_back((Edge){b, a, d});
+        for (int i = 0, u, v, w; i < m; i++) {
+            cin >> u >> v >> w;
+            G[u].pb({v, w});
+            G[v].pb({u, w});
         }
 
-        int q, s, e;
+        int q, c, st, ed;
         cin >> q;
-        for (int i = 0; i < q; i++) {
-            cin >> c >> s >> e;
-            int ans = dijk(s, e);
+        while (q--) {
+            cin >> c >> st >> ed;
+            int ans = dijk(st, ed, c);
             if (ans == INF) {
                 cout << "impossible\n";
             } else {
-                cout << ans << '\n';
+                cout << ans << "\n";
             }
         }
     }
