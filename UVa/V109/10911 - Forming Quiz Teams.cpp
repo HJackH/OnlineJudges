@@ -26,9 +26,9 @@ int main() {
     int kase = 0;
     while (cin >> n && n) {
         n <<= 1;
-        string trash;
+        string name;
         for (int i = 0; i < n; i++) {
-            cin >> trash >> stus[i].x >> stus[i].y;
+            cin >> name >> stus[i].x >> stus[i].y;
         }
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
@@ -54,7 +54,7 @@ int main() {
                 }
             }
         }
-        
+
         printf("Case %d: %.2lf\n", ++kase, dp[(1 << n) - 1]);
     }
 }
