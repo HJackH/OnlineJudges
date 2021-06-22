@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `358`
+#### Problem solved : `359`
 ```
 +-- CF
 |   +-- V00
@@ -234,6 +234,7 @@ Online judges workspace
 |   |   +-- 10066 - The Twin Towers.cpp
 |   |   +-- 10071 - Back to High School Physics.cpp
 |   |   +-- 10082 - WERTYU.cpp
+|   |   +-- 10090 - Marbles.cpp
 |   |   \-- 10098 - Generating Fast.cpp
 |   +-- V101
 |   |   +-- 10101 - Bangla Numbers.cpp
