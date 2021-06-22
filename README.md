@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `357`
+#### Problem solved : `358`
 ```
 +-- CF
 |   +-- V00
@@ -430,6 +430,7 @@ Online judges workspace
 |   |   +-- 12650 - Dangerous Dive.cpp
 |   |   \-- 12694 - Meeting Room Arrangement.cpp
 |   +-- V128
+|   |   +-- 12846 - A Daisy Puzzle Game.cpp
 |   |   +-- 12880 - Book Club.cpp
 |   |   \-- 12895 - Armstrong Number.cpp
 |   +-- V129
