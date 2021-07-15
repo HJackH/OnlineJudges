@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `360`
+#### Problem solved : `361`
 ```
 +-- CF
 |   +-- V00
@@ -277,6 +277,7 @@ Online judges workspace
 |   |   +-- 10369 - Arctic Network.cpp
 |   |   +-- 10370 - Above Average.cpp
 |   |   +-- 10391 - Compound Words.cpp
+|   |   +-- 10392 - Factoring Large Numbers.cpp
 |   |   \-- 10394 - Twin Primes.cpp
 |   +-- V104
 |   |   +-- 10405 - Longest Common Subsequence.cpp
