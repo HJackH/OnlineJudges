@@ -50,7 +50,8 @@ Online judges workspace
 |       +-- 1419A - Digit Game.cpp
 |       +-- 1430A - Number of Apartments.cpp
 |       +-- 1430B - Barrels.cpp
-|       \-- 1436A - Reorder.cpp
+|       +-- 1436A - Reorder.cpp
+|       \-- 1472B - Fair Division.cpp  
 +-- HDU
 |   +-- V01-10XX
 |   |   \-- 1083 - Courses.cpp
