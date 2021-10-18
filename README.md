@@ -40,6 +40,8 @@ Online judges workspace
 |   |   \-- 977A - Wrong Subtraction.cpp
 |   +-- V10
 |   |   \-- 1057A - Bmail Computer Network.cpp
+|   +-- V12
+|   |   \-- 1200A - Hotelier.cpp
 |   +-- V13
 |   |   +-- 1304A - Two Rabbits.cpp
 |   |   +-- 1331D - Again?.cpp
