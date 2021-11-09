@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `364`
+#### Problem solved : `365`
 ```
 +-- CF
 |   +-- V00
@@ -194,6 +194,7 @@ Online judges workspace
 |   |   +-- 1201 - Taxi Cab Scheme.cpp
 |   |   +-- 1203 - Argus.cpp
 |   |   +-- 1213 - Sum of Different Primes.cpp
+|   |   +-- 1225 - Digit Counting.cpp
 |   |   +-- 1234 - RACING.cpp
 |   |   +-- 1237 - Expert Enough.cpp
 |   |   \-- 1267 - Network.cpp
