@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `366`
+#### Problem solved : `367`
 ```
 +-- CF
 |   +-- V00
@@ -352,6 +352,7 @@ Online judges workspace
 |   |   +-- 11172 - Relational Operators.cpp
 |   |   \-- 11192 - Group Reverse.cpp
 |   +-- V112
+|   |   +-- 11218 - KTV.cpp
 |   |   +-- 11228 - Transportation system.cpp
 |   |   +-- 11264 - Coin Collector.cpp
 |   |   +-- 11283 - Playing Boggle.cpp
