@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `368`
+#### Problem solved : `369`
 ```
 +-- CF
 |   +-- V00
@@ -292,6 +292,7 @@ Online judges workspace
 |   |   \-- 10474 - Where is the Marble.cpp
 |   +-- V105
 |   |   +-- 10515 - Power et al..cpp
+|   |   +-- 10559 - Blocks.cpp
 |   |   +-- 10583 - Ubiquitous Religions.cpp
 |   |   \-- 10599 - Robots(II).cpp
 |   +-- V106
