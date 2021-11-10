@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `367`
+#### Problem solved : `368`
 ```
 +-- CF
 |   +-- V00
@@ -210,6 +210,7 @@ Online judges workspace
 |   |   +-- 1421 - Archery.cpp
 |   |   +-- 1428 - Ping pong.cpp
 |   |   +-- 1442 - Cave.cpp
+|   |   +-- 1451 - Average.cpp
 |   |   +-- 1481 - Genome Evolution.cpp
 |   |   +-- 1482 - Playing With Stones.cpp
 |   |   \-- 1494 - Qin Shi Huang's National Road System.cpp
