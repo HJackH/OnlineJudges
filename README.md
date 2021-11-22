@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `372`
+#### Problem solved : `373`
 ```
 +-- CF
 |   +-- V00
@@ -393,6 +393,7 @@ Online judges workspace
 |   |   +-- 11549 - Calculator Conundrum.cpp
 |   |   +-- 11559 - Event Planning.cpp
 |   |   +-- 11572 - Unique Snowflakes.cpp
+|   |   +-- 11577 - 11577 - Letter Frequency.cpp
 |   |   \-- 11584 - Partitioning by Palindromes.cpp
 |   +-- V116
 |   |   +-- 11621 - Small Factors.cpp
