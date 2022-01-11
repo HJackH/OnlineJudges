@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `373`
+#### Problem solved : `374`
 ```
 +-- CF
 |   +-- V00
@@ -212,6 +212,7 @@ Online judges workspace
 |   |   +-- 1428 - Ping pong.cpp
 |   |   +-- 1442 - Cave.cpp
 |   |   +-- 1451 - Average.cpp
+|   |   +-- 1474 - Evacuation Plan.cpp
 |   |   +-- 1481 - Genome Evolution.cpp
 |   |   +-- 1482 - Playing With Stones.cpp
 |   |   \-- 1494 - Qin Shi Huang's National Road System.cpp
@@ -393,7 +394,7 @@ Online judges workspace
 |   |   +-- 11549 - Calculator Conundrum.cpp
 |   |   +-- 11559 - Event Planning.cpp
 |   |   +-- 11572 - Unique Snowflakes.cpp
-|   |   +-- 11577 - 11577 - Letter Frequency.cpp
+|   |   +-- 11577 - Letter Frequency.cpp
 |   |   \-- 11584 - Partitioning by Palindromes.cpp
 |   +-- V116
 |   |   +-- 11621 - Small Factors.cpp
