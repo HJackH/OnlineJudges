@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `375`
+#### Problem solved : `376`
 ```
 +-- CF
 |   +-- V00
@@ -110,6 +110,7 @@ Online judges workspace
 |   |   \-- 299 - Train Swapping.cpp
 |   +-- V003
 |   |   +-- 305 - Joseph.cpp
+|   |   +-- 307 - Sticks.cpp
 |   |   +-- 311 - Packets.cpp
 |   |   +-- 314 - Robot.cpp
 |   |   +-- 352 - The Seasonal War.cpp
