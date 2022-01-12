@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `380`
+#### Problem solved : `381`
 ```
 +-- CF
 |   +-- V00
@@ -318,6 +318,7 @@ Online judges workspace
 |   |   +-- 10700 - Camel trading.cpp
 |   |   +-- 10706 - Number Sequence.cpp
 |   |   +-- 10714 - Ants.cpp
+|   |   +-- 10716 - Evil Straw Warts Live.cpp
 |   |   +-- 10717 - Mint.cpp
 |   |   +-- 10718 - Bit Mask.cpp
 |   |   +-- 10721 - Bar Codes.cpp
