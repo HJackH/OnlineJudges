@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `378`
+#### Problem solved : `379`
 ```
 +-- CF
 |   +-- V00
@@ -169,6 +169,7 @@ Online judges workspace
 |   |   +-- 725 - Division.cpp
 |   |   +-- 750 - 8 Queens Chess Problem.cpp
 |   |   +-- 755 - 487-3279.cpp
+|   |   +-- 757 - Gone Fishing.cpp
 |   |   \-- 793 - Network Connections.cpp
 |   +-- V008
 |   |   +-- 820 - Internet Bandwidth.cpp
