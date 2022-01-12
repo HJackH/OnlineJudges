@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `382`
+#### Problem solved : `383`
 ```
 +-- CF
 |   +-- V00
@@ -106,6 +106,7 @@ Online judges workspace
 |   |   +-- 263 - Number Chains.cpp
 |   |   +-- 272 - TEX Quotes.cpp
 |   |   +-- 280 - Vertex.cpp
+|   |   +-- 296 - Safebreaker.cpp
 |   |   +-- 297 - Quadtrees.cpp
 |   |   \-- 299 - Train Swapping.cpp
 |   +-- V003
