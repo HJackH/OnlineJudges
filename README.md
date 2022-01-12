@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `377`
+#### Problem solved : `378`
 ```
 +-- CF
 |   +-- V00
@@ -222,6 +222,7 @@ Online judges workspace
 |   +-- V015
 |   |   +-- 1584 - Circular Sequence.cpp
 |   |   +-- 1585 - Score.cpp
+|   |   +-- 1588 - Kickdown.cpp
 |   |   \-- 1594 - Ducci Sequence.cpp
 |   +-- V016
 |   |   +-- 1612 - Guess.cpp
