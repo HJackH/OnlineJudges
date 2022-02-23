@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `385`
+#### Problem solved : `386`
 ```
 +-- CF
 |   +-- V00
@@ -19,7 +19,8 @@ Online judges workspace
 |   +-- V03
 |   |   \-- 339B - Xenia and Ringroad.cpp
 |   +-- V04
-|   |   \-- 432A - Choosing Teams.cpp
+|   |   +-- 432A - Choosing Teams.cpp
+|   |   \-- 451A - Game With Sticks.cpp
 |   +-- V05
 |   |   +-- 519B - A and B and C Compilantion Errors.cpp
 |   |   +-- 567B - Berland National Library.cpp
