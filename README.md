@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `387`
+#### Problem solved : `388`
 ```
 +-- CF
 |   +-- V00
@@ -41,6 +41,7 @@ Online judges workspace
 |   |   +-- 948A - Protect Sheep.cpp
 |   |   \-- 977A - Wrong Subtraction.cpp
 |   +-- V10
+|   |   +-- 1047B - Cover Points.cpp
 |   |   \-- 1057A - Bmail Computer Network.cpp
 |   +-- V12
 |   |   \-- 1200A - Hotelier.cpp
