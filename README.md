@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `388`
+#### Problem solved : `389`
 ```
 +-- CF
 |   +-- V00
@@ -417,6 +417,7 @@ Online judges workspace
 |   +-- V117
 |   |   +-- 11722 - Joining with Friend.cpp
 |   |   +-- 11727 - Cost Cutting.cpp
+|   |   +-- 11729 - Commando War.cpp
 |   |   +-- 11730 - Number Transformation.cpp
 |   |   +-- 11747 - Heavy Cycle Edges.cpp
 |   |   +-- 11764 - Jumping Mario.cpp
