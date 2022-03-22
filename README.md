@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `389`
+#### Problem solved : `390`
 ```
 +-- CF
 |   +-- V00
@@ -439,6 +439,7 @@ Online judges workspace
 |   |   +-- 12019 - Doom's Day Algorithm.cpp
 |   |   +-- 12032 - The Monkey and the Oiled Bamboo.cpp
 |   |   +-- 12050 - Palindrome Numbers.cpp
+|   |   +-- 12083 - Guardian of Decency.cpp
 |   |   +-- 12086 - Potentiometers.cpp
 |   |   \-- 12097 - Pie.cpp
 |   +-- V121
