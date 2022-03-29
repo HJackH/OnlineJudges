@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `393`
+#### Problem solved : `394`
 ```
 +-- CF
 |   +-- V00
@@ -230,6 +230,7 @@ Online judges workspace
 |   |   +-- 1482 - Playing With Stones.cpp
 |   |   \-- 1494 - Qin Shi Huang's National Road System.cpp
 |   +-- V015
+|   |   +-- 1583 - Digit Generator.cpp
 |   |   +-- 1584 - Circular Sequence.cpp
 |   |   +-- 1585 - Score.cpp
 |   |   +-- 1588 - Kickdown.cpp
