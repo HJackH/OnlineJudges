@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `395`
+#### Problem solved : `396`
 ```
 +-- CF
 |   +-- V00
@@ -270,6 +270,7 @@ Online judges workspace
 |   |   +-- 10125 - Sumsets.cpp
 |   |   +-- 10130 - SuperSale.cpp
 |   |   +-- 10131 - Is Bigger Smarter.cpp
+|   |   +-- 10136 - Chocolate Chip Cookies.cpp
 |   |   +-- 10148 - Advertisement.cpp
 |   |   +-- 10152 - ShellSort.cpp
 |   |   +-- 10158 - War.cpp
