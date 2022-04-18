@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `397`
+#### Problem solved : `398`
 ```
 +-- CF
 |   +-- V00
@@ -181,6 +181,7 @@ Online judges workspace
 |   +-- V008
 |   |   +-- 820 - Internet Bandwidth.cpp
 |   |   +-- 821 - Page Hopping.cpp
+|   |   +-- 825 - Walking on the Safe Side.cpp
 |   |   +-- 846 - Steps.cpp
 |   |   \-- 884 - Factorial Factors.cpp
 |   +-- V009
