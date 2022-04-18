@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `396`
+#### Problem solved : `397`
 ```
 +-- CF
 |   +-- V00
@@ -331,6 +331,7 @@ Online judges workspace
 |   |   +-- 10716 - Evil Straw Warts Live.cpp
 |   |   +-- 10717 - Mint.cpp
 |   |   +-- 10718 - Bit Mask.cpp
+|   |   +-- 10720 - Graph Construction.cpp
 |   |   +-- 10721 - Bar Codes.cpp
 |   |   +-- 10730 - Antiarithmetic?.cpp
 |   |   +-- 10739 - String to Palindrome.cpp
