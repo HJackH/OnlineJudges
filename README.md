@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `398`
+#### Problem solved : `399`
 ```
 +-- CF
 |   +-- V00
@@ -206,6 +206,7 @@ Online judges workspace
 |   |   +-- 1203 - Argus.cpp
 |   |   +-- 1213 - Sum of Different Primes.cpp
 |   |   +-- 1225 - Digit Counting.cpp
+|   |   +-- 1232 - SKYLINE.cpp
 |   |   +-- 1234 - RACING.cpp
 |   |   +-- 1237 - Expert Enough.cpp
 |   |   \-- 1267 - Network.cpp
