@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `399`
+#### Problem solved : `400`
 ```
 +-- CF
 |   +-- V00
@@ -348,7 +348,8 @@ Online judges workspace
 |   |   +-- 10814 - Simplifying Fractions.java
 |   |   +-- 10815 - Andy's First Dictionary.cpp
 |   |   +-- 10856 - Recover Factorial.cpp
-|   |   \-- 10862 - Connect the Cable Wires.py
+|   |   +-- 10862 - Connect the Cable Wires.py
+|   |   \-- 10883 - Supermean.cpp
 |   +-- V109
 |   |   +-- 10911 - Forming Quiz Teams.cpp
 |   |   +-- 10921 - Find the Telephone.cpp
