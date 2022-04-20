@@ -143,7 +143,7 @@ Online judges workspace
 |   |   +-- 494 - Kindergarten Counting Game.cpp
 |   |   +-- 495 - Fibonacci Freeze.java
 |   |   +-- 496 - Simply Subsets.cpp
-|   |   \-- 499 - What’s The Frequency, Kenneth?.cpp
+|   |   \-- 499 - What's The Frequency, Kenneth?.cpp
 |   +-- V005
 |   |   +-- 507 - Jill Rides Again.cpp
 |   |   +-- 514 - Rails.cpp
@@ -338,7 +338,7 @@ Online judges workspace
 |   |   +-- 10730 - Antiarithmetic?.cpp
 |   |   +-- 10739 - String to Palindrome.cpp
 |   |   +-- 10776 - Determine The combination.cpp
-|   |   +-- 10779 - Collector’s Problem.cpp
+|   |   +-- 10779 - Collector's Problem.cpp
 |   |   \-- 10783 - Odd Sum.cpp
 |   +-- V108
 |   |   +-- 10806 - Dijkstra, Dijkstra.cpp
