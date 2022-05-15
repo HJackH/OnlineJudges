@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `401`
+#### Problem solved : `402`
 ```
 +-- CF
 |   +-- V00
@@ -44,7 +44,8 @@ Online judges workspace
 |   |   +-- 1047B - Cover Points.cpp
 |   |   \-- 1057A - Bmail Computer Network.cpp
 |   +-- V12
-|   |   \-- 1200A - Hotelier.cpp
+|   |   +-- 1200A - Hotelier.cpp
+|   |   \-- 1283A - Minutes Before the New Year.cpp
 |   +-- V13
 |   |   +-- 1304A - Two Rabbits.cpp
 |   |   +-- 1331D - Again?.cpp
