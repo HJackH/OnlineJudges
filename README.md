@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `402`
+#### Problem solved : `403`
 ```
 +-- CF
 |   +-- V00
@@ -279,7 +279,8 @@ Online judges workspace
 |   |   +-- 10158 - War.cpp
 |   |   +-- 10167 - Birthday Cake.cpp
 |   |   +-- 10170 - The Hotel with Infinite Rooms.cpp
-|   |   \-- 10189 - Minesweeper.cpp
+|   |   +-- 10189 - Minesweeper.cpp
+|   |   \-- 10190 - Divide, But Not Quite Conquer!.cpp
 |   +-- V102
 |   |   +-- 10222 - Decode the Mad man.cpp
 |   |   +-- 10226 - Hardwood Species.cpp
