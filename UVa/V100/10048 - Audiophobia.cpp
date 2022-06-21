@@ -1,22 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 const int INF = 1e9;
-const int MAXN = 100 + 10;
+const int MAXN = 100 + 5;
 
-int C, S, Q, w[MAXN][MAXN], d[MAXN][MAXN];
+int n, m, q;
+int G[MAXN][MAXN];
 
 void floyd() {
-    for (int i = 1; i <= C; i++) {
-        for (int j = 1; j <= C; j++) {
-            d[i][j] = w[i][j];
-        }
-    }
-
-    for (int k = 1; k <= C; k++) {
-        for (int i = 1; i <= C; i++) {
-            for (int j = 1; j <= C; j++) {
-                d[i][j] = min(d[i][j], max(d[i][k], d[k][j]));
+    for (int k = 1; k <= n; k++) {
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                G[i][j] = min(G[i][j], max(G[i][k], G[k][j]));
             }
         }
     }
@@ -24,39 +18,31 @@ void floyd() {
 
 int main() {
     int kase = 0;
-    cin >> C >> S >> Q;
-    while (true) {
-        for (int i = 0; i < C + 5; i++) {
-            for (int j = 0; j < C + 5; j++) {
-                w[i][j] = INF; 
+    while (cin >> n >> m >> q && (n || m || q)) {
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                G[i][j] = INF;
             }
-            w[i][i] = 0;
         }
-
-        int from, to, we;
-        for (int i = 0; i < S; i++) {
-            cin >> from >> to >> we;
-            w[from][to] = w[to][from] = we;
+        int u, v, w;
+        for (int i = 0; i < m; i++) {
+            cin >> u >> v >> w;
+            G[u][v] = G[v][u] = w;
         }
 
         floyd();
 
-        cout << "Case #" << ++kase << '\n';
-        int st, ed;
-        for (int i = 0; i < Q; i++) {
-            cin >> st >> ed;
-            if (d[st][ed] == INF) {
+        if (kase != 0) {
+            cout << "\n";
+        }
+        cout << "Case #" << ++kase << "\n";
+        while (q--) {
+            cin >> u >> v;
+            if (G[u][v] == INF) {
                 cout << "no path\n";
             } else {
-                cout << d[st][ed] << '\n';
+                cout << G[u][v] << "\n";
             }
-        }
-
-        cin >> C >> S >> Q;
-        if (C || S || Q) {
-            cout << '\n';
-        } else {
-            break;
         }
     }
 }
