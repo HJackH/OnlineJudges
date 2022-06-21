@@ -1,36 +1,43 @@
 #include <bits/stdc++.h>
 using namespace std;
+using LL = long long;
 
-int T, n;
-long long k;
-set<long long> S;
+LL n, k, limit;
 
-long long pow10(int e) {
-    long long res = 1, base = 10;
+LL pow10(int e) {
+    LL ret = 1, base = 10;
     while (e > 0) {
         if (e & 1) {
-            res *= base;
+            ret *= base;
         }
         base *= base;
         e >>= 1;
     }
-    return res;
+    return ret;
+}
+
+LL mul(LL x) {
+    x *= x;
+    while (x >= limit) {
+        x /= 10;
+    }
+    return x;
 }
 
 int main() {
+    int T;
     cin >> T;
     while (T--) {
         cin >> n >> k;
-        S.clear();
-        long long ans = k, tmp = k;
-        
-        while (!S.count(tmp)) {
-            ans = max(ans, tmp);
-            S.insert(tmp);
-            tmp *= tmp;
-            tmp = tmp / pow10(log10(tmp) + 1 - n);
-        }
+        limit = pow10(n);
 
-        cout << ans << '\n';
+        LL ans = k, tmp = k;
+        unordered_set<LL> st;
+        while (!st.count(tmp)) {
+            st.insert(tmp);
+            ans = max(ans, tmp);
+            tmp = mul(tmp);
+        }
+        cout << ans << "\n";
     }
 }
