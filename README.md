@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `404`
+#### Problem solved : `405`
 ```
 +-- CF
 |   +-- V00
@@ -405,6 +405,7 @@ Online judges workspace
 |   |   +-- 11456 - Trainsorting.cpp
 |   |   +-- 11461 - Square Numbers.cpp
 |   |   +-- 11462 - Age Sort.cpp
+|   |   +-- 11488 - Hyper Prefix Sets.cpp
 |   |   +-- 11489 - Integer Game.cpp
 |   |   +-- 11495 - Bubbles and Buckets.cpp
 |   |   \-- 11498 - Division of Nlogonia.cpp
