@@ -21,6 +21,10 @@ int main() {
     for (int kase = 1; kase <= T; kase++) {
         int n, m, k;
         cin >> n >> m >> k;
+        if (!k) {
+            cout << "Case " << kase << ": 0\n";
+            continue;
+        }
         int ans = 0;
         for (int mask = 0, ed = 1 << 4; mask < ed; mask++) {
             int r = n, c = m, bits = 0;
