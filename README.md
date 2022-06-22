@@ -3,7 +3,7 @@ Online judges workspace
 > For my solutions
 
 ## List
-#### Problem solved : `406`
+#### Problem solved : `407`
 ```
 +-- CF
 |   +-- V00
@@ -436,6 +436,7 @@ Online judges workspace
 |   |   +-- 11764 - Jumping Mario.cpp
 |   |   \-- 11799 - Horror Dash.cpp
 |   +-- V118
+|   |   +-- 11806 - Cheerleaders.cpp
 |   |   +-- 11827 - Maximum GCD.cpp
 |   |   +-- 11831 - Sticker Collector Robots.cpp
 |   |   +-- 11849 - CD.cpp
